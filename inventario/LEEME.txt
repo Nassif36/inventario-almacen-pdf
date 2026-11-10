@@ -1,0 +1,67 @@
+INVENTARIO VALIDADO DE EL HORNERO
+
+El inventario incluido contiene 411 productos y 10 categorías, sin precios ni
+cantidades de stock. Conserva los productos que figuraban con stock cero.
+Hay 220 productos con foto (170 anteriores y 50 nuevas) y 191 con marcador.
+De las 50 nuevas, 34 se identifican como fotos ilustrativas.
+
+Archivos
+--------
+- inventario-el-hornero.csv: productos, rutas locales de imágenes y créditos.
+- respaldo-el-hornero.json: respaldo completo con categorías, fotografías y logo.
+- catalogo-el-hornero.pdf: catálogo A4 numerado, listo para compartir o imprimir.
+- catalogo-el-hornero-continuo.pdf: versión en páginas largas, con créditos.
+- atribuciones-imagenes.txt: autor, producto, archivo, fuente y licencia de cada foto.
+- busqueda-fotografias.txt: resumen de las tandas, fuentes y resultados.
+- pendientes-imagenes.csv: productos para los que no se incorporó una foto verificable.
+- imagenes/: fotografías y logo incluidos localmente.
+
+Uso del sitio
+-------------
+Desde la carpeta principal del proyecto, iniciá un servidor local, por ejemplo:
+
+  python -m http.server 8000 --bind 127.0.0.1
+
+Abrí http://127.0.0.1:8000/ en el navegador. La primera visita necesita conexión
+para descargar Dexie y el lector CSV; el sitio prepara una copia para uso sin
+conexión. Los datos se guardan en ese navegador y en esa dirección: otro
+navegador o puerto tiene su propio almacenamiento.
+
+En un almacenamiento nuevo se carga una sola vez el inventario validado.
+Si ya hay datos anteriores, se conservan productos, categorías y logo. Solo
+se agregan créditos a fotografías existentes que coincidan byte a byte con las
+del respaldo validado. El botón "Agregar inventario validado" permite combinar
+el inventario sin sobrescribir datos: omite los productos que ya coinciden por
+identificador o por nombre, marca y categoría, y completa las fotos ausentes
+en coincidencias exactas. Una recarga no vuelve a agregar productos eliminados.
+
+Usá "Exportar respaldo" para guardar una copia actualizada de tus cambios.
+"Importar respaldo" permite combinar o reemplazar los datos. El CSV incluido
+puede importarse desde el sitio; sus rutas de imagen son relativas a la carpeta
+principal del proyecto y sus columnas de crédito conservan la atribución.
+Los PDF descargados incluyen los créditos al final; la impresión muestra
+referencias breves junto a cada fotografía en lugar de una sección separada.
+Para la presentación más fiel, descargá el PDF A4 e imprimilo desde el visor
+de PDF. La opción "PDF continuo" conserva la versión para leer en pantalla.
+El nombre sugerido usa "El Hornero Market" y el mes actual; el navegador puede
+permitir modificarlo al guardar o imprimir.
+
+Las nuevas fotos se agregan una sola vez a productos originales que sigan sin
+imagen y no se hayan editado. No se reemplazan fotos propias, no se vuelven a
+agregar productos eliminados y una foto quitada después no reaparece. Restaurar
+un respaldo respeta su contenido y no agrega fotos automáticamente.
+Las fotos marcadas "Foto ilustrativa" representan el tipo de producto; no
+deben interpretarse como garantía de la presentación exacta.
+
+Imágenes y licencias
+--------------------
+Las fotografías de Open Food Facts, Open Beauty Facts y Open Products Facts
+son de sus colaboradores y se usan bajo CC BY-SA 3.0. Las de Wikimedia Commons
+tienen el autor y la licencia indicados en sus créditos individuales. Al
+compartirlas o adaptarlas conservá la atribución y las condiciones aplicables:
+https://creativecommons.org/licenses/by-sa/3.0/deed.es
+
+Consultá atribuciones-imagenes.txt para los enlaces individuales y las
+modificaciones. Los nombres, logotipos y diseños de los envases pueden tener
+derechos adicionales. El proyecto también contiene información de Open Food
+Facts disponible bajo ODbL: https://opendatacommons.org/licenses/odbl/1.0/

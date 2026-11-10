@@ -1,0 +1,18 @@
+{
+  "name": "El Hornero Market | Catálogo",
+  "short_name": "Hornero",
+  "description": "Administración local del catálogo de productos de El Hornero Market.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#24483a",
+  "icons": [
+    {
+      "src": "assets/icons/hornero.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
