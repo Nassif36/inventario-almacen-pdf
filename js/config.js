@@ -4,6 +4,8 @@ export const APP_CONFIG = Object.freeze({
   databaseVersion: 2,
   schemaVersion: 1,
   defaultInventoryKey: 'validatedInventoryState',
+  defaultInventoryRevisionKey: 'validatedInventoryRevision',
+  defaultInventoryRevision: '2026-11-10-403',
   photoUpdateKey: 'validatedPhotoBatch',
   photoUpdateVersion: '2026-11-05-50',
   maxImageBytes: 5 * 1024 * 1024,

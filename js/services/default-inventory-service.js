@@ -33,9 +33,18 @@ export async function initializeDefaultInventory() {
     return record.value;
   });
 
-  if (state === 'pending') {
-    await loadDefaultInventory(false);
-    return { state: 'loaded', photosUpdated: 0 };
+  const revision = await db.settings.get(APP_CONFIG.defaultInventoryRevisionKey);
+  if (revision?.value !== APP_CONFIG.defaultInventoryRevision) {
+    const backup = await readDefaultBackup();
+    const result = await restoreBackup(backup, 'merge', {
+      markInventoryLoaded: true,
+      fillMissingImages: true,
+      onlyIfInventoryRevisionOutdated: true,
+      preservePhotoUpdate: true
+    });
+    await attachKnownImageCredits(true);
+    await applyBundledPhotoUpdate();
+    return { state: 'loaded', photosUpdated: result.imagesUpdated || 0 };
   }
   if (state === 'existing' || state === 'loaded') await attachKnownImageCredits();
   const photoUpdate = state === 'loaded' ? await applyBundledPhotoUpdate() : { updated: 0 };
@@ -84,7 +93,7 @@ export async function applyBundledPhotoUpdate() {
   const byId = new Map(backup.products.map((product) => [product.id, product]));
   const prepared = await Promise.all(pending.map(async (entry) => {
     const source = byId.get(entry.id);
-    if (!source?.image || !source.imageCredit) {
+    if (!source?.image) {
       throw new Error('Una fotografía de la actualización no está en el respaldo incluido.');
     }
     return { ...entry, source, image: await dataURLToBlob(source.image) };

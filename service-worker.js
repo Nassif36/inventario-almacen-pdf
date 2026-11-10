@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hornero-shell-v12';
+const CACHE_NAME = 'hornero-shell-v14';
 const SHELL_FILES = [
   './',
   './index.html',

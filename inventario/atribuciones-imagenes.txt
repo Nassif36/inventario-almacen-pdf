@@ -1,5 +1,15 @@
 ATRIBUCIÓN DE FOTOGRAFÍAS — CATÁLOGO EL HORNERO
 
+Sincronización del 10/11/2026: se incorporaron 183 imágenes locales aportadas
+por el usuario, con nombres coincidentes con los títulos del inventario.
+No se proporcionaron autor ni licencia para esas imágenes; no se les atribuyen
+las licencias de las fotografías anteriores. Antes de redistribuirlas, verificá
+los permisos correspondientes. El registro de descarga original se conserva en
+test/resultado-descarga.csv, con las URL de origen disponibles.
+caldo-de-gallina-x-2-u-catalogo.png es una copia reducida a 1600 x 1600 píxeles
+como máximo del PNG aportado; el original se conserva sin modificaciones.
+Las entradas individuales siguientes corresponden a las 220 fotos anteriores.
+
 Fotografías de colaboradores de Open Food Facts, Open Beauty Facts, Open Products Facts o Wikimedia Commons, según cada entrada. Cada fotografía conserva la licencia y el autor indicados individualmente; algunas son imágenes ilustrativas del tipo de producto.
 https://world.openfoodfacts.org/terms-of-use
 https://world.openbeautyfacts.org/terms-of-use
@@ -1623,4 +1633,3 @@ Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7798094220444
 Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/809/422/0444/4.400.jpg
 Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-

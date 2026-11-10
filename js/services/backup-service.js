@@ -77,13 +77,17 @@ export async function restoreBackup(data, mode, options = {}) {
   const logo = data.logo ? await dataURLToBlob(data.logo) : null;
   const db = getDatabase();
   return db.transaction('rw', db.categories, db.products, db.settings, async () => {
-    const [currentCategories, currentProducts, currentLogo, inventoryState] = await Promise.all([
+    const [currentCategories, currentProducts, currentLogo, inventoryState, inventoryRevision] = await Promise.all([
       db.categories.toArray(),
       db.products.toArray(),
       db.settings.get('catalogLogo'),
-      db.settings.get(APP_CONFIG.defaultInventoryKey)
+      db.settings.get(APP_CONFIG.defaultInventoryKey),
+      db.settings.get(APP_CONFIG.defaultInventoryRevisionKey)
     ]);
     if (options.allowedInventoryStates && !options.allowedInventoryStates.includes(inventoryState?.value)) {
+      return { products: 0, categories: 0, skippedProducts: 0, alreadyInitialized: true };
+    }
+    if (options.onlyIfInventoryRevisionOutdated && inventoryRevision?.value === APP_CONFIG.defaultInventoryRevision) {
       return { products: 0, categories: 0, skippedProducts: 0, alreadyInitialized: true };
     }
     const categoryMap = new Map();
@@ -143,6 +147,10 @@ export async function restoreBackup(data, mode, options = {}) {
     if (options.markInventoryLoaded || mode === 'replace' || !inventoryState || inventoryState.value === 'pending') {
       await db.settings.put({ key: APP_CONFIG.defaultInventoryKey, value: 'loaded' });
     }
+    await db.settings.put({
+      key: APP_CONFIG.defaultInventoryRevisionKey,
+      value: APP_CONFIG.defaultInventoryRevision
+    });
     if (options.initializePhotoUpdate) {
       await db.settings.delete(APP_CONFIG.photoUpdateKey);
     } else if (!options.preservePhotoUpdate) {
