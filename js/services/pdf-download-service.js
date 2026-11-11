@@ -301,9 +301,10 @@ function drawHeader(doc, container, layout, imageCache) {
   for (const [index, step] of [...container.querySelectorAll('.order-steps li')].entries()) {
     const center = MARGIN + stepWidth * (index + 0.5);
     drawImage(doc, step.querySelector('img'), center - 33, layout.stepTop, 66, 66, imageCache);
-    doc.setFillColor('#edf3ed');
+    const number = step.querySelector('.order-step__number');
+    doc.setFillColor(...cssColorToRGB(getComputedStyle(number).backgroundColor));
     doc.circle(center, layout.stepTop + 79, 9, 'F');
-    useElementFont(doc, step.querySelector('.order-step__number'), 12);
+    useElementFont(doc, number, 12);
     doc.text(String(index + 1), center, layout.stepTop + 83, { align: 'center' });
     useElementFont(doc, step.querySelector('.order-step__title'), SIZES.step);
     const label = doc.splitTextToSize(step.querySelector('.order-step__title').textContent, stepWidth - 14);

@@ -1,13 +1,14 @@
 import { APP_CONFIG } from '../config.js';
 import { getDatabase } from '../database/db.js';
-import { createId, normalizeImageCredit, normalizeKey, productKey, validateImage } from '../utils/validators.js';
+import { createId, normalizeImageCredit, normalizeKey, normalizeWhatsAppNumber, productKey, validateImage } from '../utils/validators.js';
 
 export async function createBackup() {
   const db = getDatabase();
-  const [products, categories, logo] = await Promise.all([
+  const [products, categories, logo, whatsapp] = await Promise.all([
     db.products.toArray(),
     db.categories.toArray(),
-    db.settings.get('catalogLogo')
+    db.settings.get('catalogLogo'),
+    db.settings.get('catalogWhatsapp')
   ]);
   return {
     application: APP_CONFIG.name,
@@ -18,7 +19,8 @@ export async function createBackup() {
       ...product,
       image: product.image ? await blobToDataURL(product.image) : null
     }))),
-    logo: logo?.value ? await blobToDataURL(logo.value) : null
+    logo: logo?.value ? await blobToDataURL(logo.value) : null,
+    whatsapp: whatsapp?.value ?? null
   };
 }
 
@@ -32,6 +34,7 @@ export function validateBackup(data) {
   if (!Array.isArray(data.categories) || !Array.isArray(data.products)) {
     throw new Error('El respaldo debe incluir listas de productos y categorías.');
   }
+  if (data.whatsapp != null) normalizeWhatsAppNumber(data.whatsapp);
 
   const categoryIDs = new Set();
   const categoryNames = new Set();
@@ -77,10 +80,11 @@ export async function restoreBackup(data, mode, options = {}) {
   const logo = data.logo ? await dataURLToBlob(data.logo) : null;
   const db = getDatabase();
   return db.transaction('rw', db.categories, db.products, db.settings, async () => {
-    const [currentCategories, currentProducts, currentLogo, inventoryState, inventoryRevision] = await Promise.all([
+    const [currentCategories, currentProducts, currentLogo, currentWhatsapp, inventoryState, inventoryRevision] = await Promise.all([
       db.categories.toArray(),
       db.products.toArray(),
       db.settings.get('catalogLogo'),
+      db.settings.get('catalogWhatsapp'),
       db.settings.get(APP_CONFIG.defaultInventoryKey),
       db.settings.get(APP_CONFIG.defaultInventoryRevisionKey)
     ]);
@@ -143,6 +147,9 @@ export async function restoreBackup(data, mode, options = {}) {
     }
     if (logo && (mode === 'replace' || !currentLogo)) {
       await db.settings.put({ key: 'catalogLogo', value: logo });
+    }
+    if (data.whatsapp && (mode === 'replace' || !currentWhatsapp)) {
+      await db.settings.put({ key: 'catalogWhatsapp', value: normalizeWhatsAppNumber(data.whatsapp) });
     }
     if (options.markInventoryLoaded || mode === 'replace' || !inventoryState || inventoryState.value === 'pending') {
       await db.settings.put({ key: APP_CONFIG.defaultInventoryKey, value: 'loaded' });

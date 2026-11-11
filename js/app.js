@@ -1,3 +1,4 @@
+import { APP_CONFIG } from './config.js';
 import { initializeDatabase } from './database/db.js';
 import { openProductForm } from './components/product-form.js';
 import { renderProductList } from './components/product-list.js';
@@ -11,7 +12,7 @@ import { listProducts, saveProduct, deleteProduct, importProducts } from './serv
 import { preparePrintCatalog, printCatalog, renderCatalog } from './services/pdf-service.js';
 import { downloadCatalogPDF } from './services/pdf-download-service.js';
 import { getSetting, setSetting } from './services/settings-service.js';
-import { escapeHTML, normalizeKey, validateImage } from './utils/validators.js';
+import { escapeHTML, normalizeKey, normalizeWhatsAppNumber, validateImage } from './utils/validators.js';
 import { formatDate, pluralize } from './utils/formatters.js';
 
 const state = { products: [], categories: [], currentView: 'dashboard' };
@@ -129,8 +130,11 @@ function activateView(name) {
 }
 
 async function refreshCatalog() {
-  const logo = await getSetting('catalogLogo');
-  renderCatalog(document.querySelector('#catalog-content'), state.products, state.categories, logo);
+  const [logo, whatsapp] = await Promise.all([
+    getSetting('catalogLogo'),
+    getSetting('catalogWhatsapp')
+  ]);
+  renderCatalog(document.querySelector('#catalog-content'), state.products, state.categories, logo, whatsapp || undefined);
 }
 
 function openNewProduct() {
@@ -332,6 +336,31 @@ async function openLogoSettings() {
   dialog.showModal();
 }
 
+async function openWhatsAppSettings() {
+  const dialog = document.querySelector('#whatsapp-dialog');
+  const whatsapp = await getSetting('catalogWhatsapp') || APP_CONFIG.catalogContact.whatsapp;
+  dialog.innerHTML = `
+    <form class="dialog-form" id="whatsapp-form">
+      <div class="dialog-heading"><div><p class="eyebrow">CONTACTO DEL CATÁLOGO</p><h2 id="whatsapp-dialog-title">Configurar WhatsApp</h2></div><button class="icon-button" type="button" data-dialog-close aria-label="Cerrar">×</button></div>
+      <p class="dialog-description">Este número aparecerá en el catálogo y será el destino del enlace de WhatsApp. Incluí el código de país.</p>
+      <label>Número de WhatsApp <input name="whatsapp" type="tel" inputmode="tel" autocomplete="tel" maxlength="32" value="${escapeHTML(whatsapp)}" placeholder="+54 9 11 1234-5678" required><span>Ejemplo: +54 9 11 1234-5678</span></label>
+      <p class="form-message" role="alert"></p><div class="dialog-actions"><button class="button button--quiet" type="button" data-dialog-close>Cancelar</button><button class="button button--primary" type="submit">Guardar WhatsApp</button></div>
+    </form>`;
+  const form = dialog.querySelector('#whatsapp-form');
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    try {
+      await setSetting('catalogWhatsapp', normalizeWhatsAppNumber(form.elements.whatsapp.value));
+      await refreshCatalog();
+      dialog.close();
+    } catch (error) {
+      form.querySelector('.form-message').textContent = error.message;
+    }
+  });
+  dialog.querySelectorAll('[data-dialog-close]').forEach((button) => button.addEventListener('click', () => dialog.close()));
+  dialog.showModal();
+}
+
 function reportError(error) {
   console.error(error);
   window.alert(error.message || 'Ocurrió un error inesperado.');
@@ -381,6 +410,7 @@ document.addEventListener('click', async (event) => {
       await refreshCatalog();
       await printCatalog();
     } else if (action.dataset.action === 'configure-logo') await openLogoSettings();
+    else if (action.dataset.action === 'configure-whatsapp') await openWhatsAppSettings();
     else if (action.dataset.action === 'export-backup') await exportBackup();
     else if (action.dataset.action === 'import-backup') openBackupImport();
     else if (action.dataset.productAction === 'edit') openEditProduct(action.dataset.productId);

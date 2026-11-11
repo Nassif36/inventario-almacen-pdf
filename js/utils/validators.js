@@ -17,6 +17,18 @@ export function normalizeKey(value) {
   return normalizeText(value).toLocaleLowerCase('es');
 }
 
+export function normalizeWhatsAppNumber(value) {
+  const number = normalizeText(value);
+  if (!/^\+?[\d\s().-]+$/.test(number)) {
+    throw new Error('Ingresá un número de WhatsApp válido con código de país.');
+  }
+  const digits = number.replace(/\D/g, '');
+  if (digits.length < 8 || digits.length > 15 || digits.startsWith('0')) {
+    throw new Error('El número debe incluir el código de país y tener entre 8 y 15 dígitos.');
+  }
+  return `+${digits}`;
+}
+
 export function productKey(product) {
   return [product.title, product.brand, product.category].map(normalizeKey).join('|');
 }

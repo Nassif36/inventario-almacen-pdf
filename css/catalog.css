@@ -122,10 +122,22 @@
   flex: 0 0 auto;
   place-items: center;
   border-radius: 50%;
-  background: #edf3ed;
-  color: var(--color-forest);
+  background: #e8590c;
+  color: #fff;
   font-size: 13px;
   font-weight: 700;
+}
+
+.order-steps li:nth-child(2) .order-step__number {
+  background: #d6336c;
+}
+
+.order-steps li:nth-child(3) .order-step__number {
+  background: #1c7ed6;
+}
+
+.order-steps li:nth-child(4) .order-step__number {
+  background: #2f9e44;
 }
 
 .order-step__illustration {

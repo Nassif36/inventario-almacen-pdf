@@ -19,7 +19,7 @@ export function tintColor(hex, amount = 0.12) {
 
 const STRIPE = CATEGORY_ACCENTS.map((color) => `<span style="background: ${color}"></span>`).join('');
 
-export function renderCatalog(container, products, categories, logoBlob) {
+export function renderCatalog(container, products, categories, logoBlob, whatsappNumber = APP_CONFIG.catalogContact.whatsapp) {
   for (const url of container.dataset.objectURLs?.split('|') || []) {
     if (url) URL.revokeObjectURL(url);
   }
@@ -33,7 +33,8 @@ export function renderCatalog(container, products, categories, logoBlob) {
     }))
     .filter((category) => category.products.length);
   container.classList.toggle('catalog-content--spacious', products.length <= 10);
-  const { address, whatsapp } = APP_CONFIG.catalogContact;
+  const { address } = APP_CONFIG.catalogContact;
+  const whatsapp = whatsappNumber;
   const whatsappURL = `https://wa.me/${whatsapp.replace(/\D/g, '')}`;
   const locationURL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`;
 
