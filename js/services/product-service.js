@@ -1,5 +1,5 @@
 import { getDatabase } from '../database/db.js';
-import { createId, normalizeImageCredit, normalizeText, validateImage } from '../utils/validators.js';
+import { createId, normalizeImageCredit, normalizeProductTitle, normalizeText, validateImage } from '../utils/validators.js';
 
 export async function listProducts() {
   return getDatabase().products.orderBy('title').toArray();
@@ -7,7 +7,7 @@ export async function listProducts() {
 
 export async function saveProduct(input) {
   const db = getDatabase();
-  const title = normalizeText(input.title);
+  const title = normalizeProductTitle(input.title);
   const category = normalizeText(input.category);
   const brand = normalizeText(input.brand);
   if (!title) throw new Error('El nombre del producto es obligatorio.');
@@ -47,7 +47,7 @@ export async function importProducts(products) {
       const now = new Date().toISOString();
       await db.products.add({
         id: createId(),
-        title: normalizeText(product.title),
+        title: normalizeProductTitle(product.title),
         brand: normalizeText(product.brand),
         category: category.name,
         image: product.image || null,

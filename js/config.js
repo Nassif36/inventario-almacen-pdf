@@ -1,13 +1,13 @@
 export const APP_CONFIG = Object.freeze({
   name: 'El Hornero Market',
   databaseName: 'el-hornero-delta',
-  databaseVersion: 2,
+  databaseVersion: 3,
   schemaVersion: 1,
   defaultInventoryKey: 'validatedInventoryState',
   defaultInventoryRevisionKey: 'validatedInventoryRevision',
-  defaultInventoryRevision: '2026-11-10-410',
+  defaultInventoryRevision: '2026-11-11-413',
   photoUpdateKey: 'validatedPhotoBatch',
-  photoUpdateVersion: '2026-11-05-50',
+  photoUpdateVersion: '2026-11-11-opt388',
   maxImageBytes: 5 * 1024 * 1024,
   supportedImageTypes: ['image/jpeg', 'image/png', 'image/webp'],
   catalogContact: Object.freeze({

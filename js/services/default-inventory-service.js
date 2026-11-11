@@ -74,7 +74,8 @@ export async function applyBundledPhotoUpdate() {
   }
   const ids = new Set();
   for (const entry of manifest.updates) {
-    if (!entry || typeof entry.id !== 'string' || typeof entry.updatedAt !== 'string' || ids.has(entry.id)) {
+    if (!entry || typeof entry.id !== 'string' || typeof entry.updatedAt !== 'string' || ids.has(entry.id) ||
+        (entry.previousImageSha256 != null && !/^[a-f0-9]{64}$/.test(entry.previousImageSha256))) {
       throw new Error('La actualización contiene un producto inválido o repetido.');
     }
     ids.add(entry.id);
@@ -96,7 +97,15 @@ export async function applyBundledPhotoUpdate() {
     if (!source?.image) {
       throw new Error('Una fotografía de la actualización no está en el respaldo incluido.');
     }
-    return { ...entry, source, image: await dataURLToBlob(source.image) };
+    const current = await db.products.get(entry.id);
+    return {
+      ...entry,
+      source,
+      image: await dataURLToBlob(source.image),
+      currentImageSha256: current?.image ? await sha256(current.image) : null,
+      currentImageSize: current?.image?.size,
+      currentImageType: current?.image?.type
+    };
   }));
 
   return db.transaction('rw', db.products, db.settings, async () => {
@@ -111,11 +120,16 @@ export async function applyBundledPhotoUpdate() {
     for (const entry of prepared) {
       if (done.has(entry.id)) continue;
       const current = await db.products.get(entry.id);
-      if (current && !current.image && !current.imageCredit && current.updatedAt === entry.updatedAt &&
-          productKey(current) === productKey(entry.source)) {
+      const isUnchangedBundledImage = Boolean(current?.image && entry.previousImageSha256 &&
+        entry.currentImageSha256 === entry.previousImageSha256 &&
+        current.image.size === entry.currentImageSize &&
+        current.image.type === entry.currentImageType);
+      const canFillMissingImage = !current?.image && !current?.imageCredit;
+      if (current && (canFillMissingImage || isUnchangedBundledImage) &&
+          current.updatedAt === entry.updatedAt && productKey(current) === productKey(entry.source)) {
         await db.products.update(entry.id, {
           image: entry.image,
-          imageCredit: entry.source.imageCredit,
+          imageCredit: entry.source.imageCredit || null,
           updatedAt: new Date().toISOString()
         });
         updated += 1;
@@ -128,6 +142,12 @@ export async function applyBundledPhotoUpdate() {
     });
     return { updated };
   });
+}
+
+async function sha256(blob) {
+  if (!crypto.subtle) throw new Error('Este navegador no permite verificar las imágenes del inventario.');
+  const digest = await crypto.subtle.digest('SHA-256', await blob.arrayBuffer());
+  return [...new Uint8Array(digest)].map((byte) => byte.toString(16).padStart(2, '0')).join('');
 }
 
 export async function attachKnownImageCredits(force = false) {

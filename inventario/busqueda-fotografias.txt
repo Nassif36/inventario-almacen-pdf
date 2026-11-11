@@ -1,5 +1,7 @@
 BÚSQUEDA DE FOTOGRAFÍAS — INVENTARIO EL HORNERO
 
+Estado del inventario al 11/11/2026: 413 productos, 410 con foto y 3 pendientes. Se actualizaron ocho fotos con nuevas imágenes aportadas por el usuario.
+
 Se partió de 60 productos con foto y 351 pendientes. La primera búsqueda agregó 110 fotos; la búsqueda posterior agregó 50 fotos (34 identificadas como ilustrativas). Se conservaron los nombres, marcas y categorías validados.
 
 Balance por posición de los 351 productos inicialmente pendientes (revisados en tandas de hasta 100):
@@ -8,7 +10,7 @@ Tanda 2 (101–200): 45 fotos agregadas; 55 pendientes.
 Tanda 3 (201–300): 54 fotos agregadas; 46 pendientes.
 Tanda 4 (301–351): 27 fotos agregadas; 24 pendientes.
 
-Total actual: 220 productos con foto (170 antes de la última búsqueda y 50 adicionales); 191 pendientes.
+Balance de esa búsqueda: 220 productos con foto (170 antes de la última búsqueda y 50 adicionales); 191 pendientes.
 
 Se cotejaron los volcados públicos de Open Food Facts, Open Beauty Facts y Open Products Facts y fotografías libres de Wikimedia Commons. Se revisaron las fotografías elegidas y se descartaron coincidencias sin respaldo suficiente para la marca, variante o presentación cuando figuraban en el inventario. Los productos genéricos o ambiguos se dejaron sin foto si no era posible identificarla con seguridad. Las fotografías que representan el tipo de producto aparecen identificadas como ilustrativas.
 Datos y condiciones: https://world.openfoodfacts.org/data

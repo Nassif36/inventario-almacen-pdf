@@ -1,6 +1,6 @@
 import { APP_CONFIG } from '../config.js';
 import { getDatabase } from '../database/db.js';
-import { createId, normalizeImageCredit, normalizeKey, normalizeWhatsAppNumber, productKey, validateImage } from '../utils/validators.js';
+import { createId, normalizeImageCredit, normalizeKey, normalizeProductTitle, normalizeWhatsAppNumber, productKey, validateImage } from '../utils/validators.js';
 
 export async function createBackup() {
   const db = getDatabase();
@@ -74,6 +74,7 @@ export async function restoreBackup(data, mode, options = {}) {
 
   const products = await Promise.all(data.products.map(async (source) => ({
     ...source,
+    title: normalizeProductTitle(source.title),
     image: source.image ? await dataURLToBlob(source.image) : null,
     imageCredit: source.imageCredit ? normalizeImageCredit(source.imageCredit) : null
   })));

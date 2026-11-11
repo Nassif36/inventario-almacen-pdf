@@ -1,5 +1,5 @@
 import { getDatabase } from '../database/db.js';
-import { normalizeImageCredit, normalizeKey, normalizeText, productKey, validateImage } from '../utils/validators.js';
+import { normalizeImageCredit, normalizeKey, normalizeProductTitle, normalizeText, productKey, validateImage } from '../utils/validators.js';
 
 const REQUIRED_COLUMNS = ['title', 'category'];
 
@@ -32,7 +32,7 @@ export async function inspectCSV(file) {
   const knownProducts = new Set(products.map(productKey));
   const seen = new Set();
   const rows = parsed.data.map((record, index) => {
-    const title = normalizeText(record.title);
+    const title = normalizeProductTitle(record.title);
     const brand = normalizeText(record.brand);
     const category = normalizeText(record.category);
     const imageURL = normalizeText(record.image_url);

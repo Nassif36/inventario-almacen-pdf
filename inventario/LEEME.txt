@@ -2,10 +2,11 @@ INVENTARIO VALIDADO DE EL HORNERO
 
 El inventario incluido contiene 413 productos y 12 categorías, sin precios ni
 cantidades de stock. Conserva los productos que figuraban con stock cero.
-Hay 410 productos con foto y 3 con marcador. Se sincronizaron 183 fotografías
+Hay 410 productos con foto y 3 con marcador. Se sincronizaron 191 fotografías
 aportadas por el usuario por coincidencia exacta entre título y nombre de archivo,
-normalizando mayúsculas, acentos y separadores. 202 fotos conservan sus
-créditos; 31 de ellas se identifican como fotos ilustrativas.
+normalizando mayúsculas, acentos y separadores. 196 fotos conservan sus
+créditos; 29 de ellas se identifican como fotos ilustrativas.
+El 11/11/2026 se actualizaron ocho fotos de productos con imágenes nuevas. En navegadores existentes solo se reemplazan las fotos anteriores que coinciden exactamente; las fotos personalizadas se conservan.
 
 Archivos
 --------
@@ -66,7 +67,23 @@ productos ya procesados y las restauraciones que desactivaron la actualización.
 Las fotografías aportadas pueden no tener créditos: esto no impide incorporarlas,
 pero no se les atribuyen autores ni licencias que no hayan sido proporcionados.
 La foto de caldo de gallina se incluye como copia reducida para catálogo, dentro
-del límite de 5 MB por imagen; se conserva el PNG original en imagenes/.
+del límite de 5 MB por imagen.
+
+Optimización de fotografías
+---------------------------
+Las fotos de imagenes/ se redujeron a un máximo de 900 px por lado y se
+recomprimieron (JPEG para fotos opacas, WebP para fotos con transparencia; el
+logo sigue en PNG). Para repetirlo después de agregar fotos nuevas, ejecutá
+desde la carpeta principal del proyecto:
+
+  python scripts/optimizar_imagenes.py --simular   (solo muestra el ahorro)
+  python scripts/optimizar_imagenes.py
+
+El script necesita Pillow (pip install pillow), guarda una copia de los
+originales en una carpeta "-originales-" junto al proyecto, actualiza las rutas
+del CSV y los manifiestos, las fotos del respaldo incluido y publica una
+actualización para que los navegadores reemplacen las fotos pesadas que no
+hayan sido modificadas. Los PDF se achican al volver a descargarlos.
 
 Siguen pendientes: paño multiouso sed metal; garnier rubio claro ceniza;
 CAÑONCITO DE MEMBRILLO. No se asignaron imágenes de otras variantes ni

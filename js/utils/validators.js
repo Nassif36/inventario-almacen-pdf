@@ -13,6 +13,12 @@ export function normalizeText(value) {
   return String(value ?? '').trim().replace(/\s+/g, ' ');
 }
 
+export function normalizeProductTitle(value) {
+  const title = normalizeText(value);
+  if (!title || title !== title.toLocaleUpperCase('es')) return title;
+  return title.toLocaleLowerCase('es').replace(/^\p{L}/u, (character) => character.toLocaleUpperCase('es'));
+}
+
 export function normalizeKey(value) {
   return normalizeText(value).toLocaleLowerCase('es');
 }

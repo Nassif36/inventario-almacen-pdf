@@ -1,4 +1,5 @@
 import { APP_CONFIG } from '../config.js';
+import { normalizeProductTitle } from '../utils/validators.js';
 
 let database;
 
@@ -22,6 +23,13 @@ export function getDatabase() {
     categories: '&id,name,createdAt',
     settings: '&key'
   });
+  database.version(3).stores({
+    products: '&id,title,brand,category,createdAt,updatedAt',
+    categories: '&id,name,createdAt',
+    settings: '&key'
+  }).upgrade((transaction) => transaction.table('products').toCollection().modify((product) => {
+    product.title = normalizeProductTitle(product.title);
+  }));
   database.on('populate', () => {
     database.settings.add({ key: APP_CONFIG.defaultInventoryKey, value: 'pending' });
   });
