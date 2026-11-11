@@ -1,7 +1,7 @@
 export const APP_CONFIG = Object.freeze({
   name: 'El Hornero Market',
   databaseName: 'el-hornero-delta',
-  databaseVersion: 3,
+  databaseVersion: 4,
   schemaVersion: 1,
   defaultInventoryKey: 'validatedInventoryState',
   defaultInventoryRevisionKey: 'validatedInventoryRevision',

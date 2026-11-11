@@ -14,9 +14,7 @@ export function normalizeText(value) {
 }
 
 export function normalizeProductTitle(value) {
-  const title = normalizeText(value);
-  if (!title || title !== title.toLocaleUpperCase('es')) return title;
-  return title.toLocaleLowerCase('es').replace(/^\p{L}/u, (character) => character.toLocaleUpperCase('es'));
+  return normalizeText(value).toLocaleUpperCase('es');
 }
 
 export function normalizeKey(value) {

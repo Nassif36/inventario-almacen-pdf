@@ -30,6 +30,14 @@ export function getDatabase() {
   }).upgrade((transaction) => transaction.table('products').toCollection().modify((product) => {
     product.title = normalizeProductTitle(product.title);
   }));
+  // updatedAt is kept so pending bundled photo updates still recognize unedited products.
+  database.version(4).stores({
+    products: '&id,title,brand,category,createdAt,updatedAt',
+    categories: '&id,name,createdAt',
+    settings: '&key'
+  }).upgrade((transaction) => transaction.table('products').toCollection().modify((product) => {
+    product.title = normalizeProductTitle(product.title);
+  }));
   database.on('populate', () => {
     database.settings.add({ key: APP_CONFIG.defaultInventoryKey, value: 'pending' });
   });
