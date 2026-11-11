@@ -8,7 +8,7 @@ los permisos correspondientes. El registro de descarga original se conserva en
 test/resultado-descarga.csv, con las URL de origen disponibles.
 caldo-de-gallina-x-2-u-catalogo.png es una copia reducida a 1600 x 1600 píxeles
 como máximo del PNG aportado; el original se conserva sin modificaciones.
-Las entradas individuales siguientes corresponden a las 220 fotos anteriores.
+Las entradas individuales siguientes corresponden a las 202 fotos con cr?ditos.
 
 Fotografías de colaboradores de Open Food Facts, Open Beauty Facts, Open Products Facts o Wikimedia Commons, según cada entrada. Cada fotografía conserva la licencia y el autor indicados individualmente; algunas son imágenes ilustrativas del tipo de producto.
 https://world.openfoodfacts.org/terms-of-use
@@ -18,1618 +18,1486 @@ Las imágenes locales son copias o versiones redimensionadas de las imágenes en
 Los nombres, logotipos y diseños de los envases pueden tener derechos adicionales.
 Contiene información de Open Food Facts, disponible bajo la Licencia Abierta de Bases de Datos (ODbL): https://opendatacommons.org/licenses/odbl/1.0/
 
-Brahma 473ml
-Archivo: imagenes/b18ff8ae-00ed-4ffb-9dfa-0807994c1800.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798005888
-Imagen: https://images.openfoodfacts.net/images/products/779/279/800/5888/front_es.12.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-Salchichas VIENISIMA X 6 U
-Archivo: imagenes/c4ab5ac2-ee79-4c67-b205-5cba859e10f8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790670052401
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/067/005/2401/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-Milanesa de Soja VEGETALEX
-Archivo: imagenes/de2f6ea7-6865-40a3-bc24-6b9205cb49e7.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790174000564
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/400/0564/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
 HARINA PARA PIZZA
 Archivo: imagenes/f91024d0-b787-4450-9a02-1ba9d0fb739a.jpg
 Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7792180134509
 Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/218/013/4509/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
 Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-HARINA CASERITA
-Archivo: imagenes/e708d7e9-cbca-4cb7-876f-a81114bb0cf9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792590000159
-Imagen: https://images.openfoodfacts.net/images/products/779/259/000/0159/front_es.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-DULCE DE LECHE
-Archivo: imagenes/28f43224-03c2-4c57-b034-5d17f96f5403.jpg
-Autor: audinou from Paris, France
-Producto: https://commons.wikimedia.org/wiki/File:DulceDeLeche.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/5/5a/DulceDeLeche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-mermelada de durazno arcor
-Archivo: imagenes/9b6e960e-65ad-45e6-8df6-258b1c81c1eb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790580132163
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/013/2163/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-dulce de batata x 500
-Archivo: imagenes/31b163b2-dd5f-46b2-aadb-b1ede1143081.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798033337851
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/803/333/7851/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa. Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-DULCE DE MEMBRILLO
-Archivo: imagenes/51374e6e-4f5c-4342-ac12-ae7bae2043ea.jpg
-Autor: Javier Lastras from España/Spain
-Producto: https://commons.wikimedia.org/wiki/File:Dulce_de_Membrillo.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/d/db/Dulce_de_Membrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-Pimenton
-Archivo: imagenes/cfb1af27-6585-4e6e-926d-940778786ea1.jpg
-Autor: Dguendel
-Producto: https://commons.wikimedia.org/wiki/File:Hamburg,_Gew%C3%BCrzmuseum,_Paprika_edels%C3%BC%C3%9F_aus_Ungarn.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/1/1a/Hamburg%2C_Gew%C3%BCrzmuseum%2C_Paprika_edels%C3%BC%C3%9F_aus_Ungarn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-CONDIMENTO DE CARNE
-Archivo: imagenes/ee6f6429-27c2-4921-abed-e403b85a8ff6.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790150480243
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/015/048/0243/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-PAÑUELOS ELITE
-Archivo: imagenes/d7c6a011-1dd9-4be5-be89-31f6738ebc08.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7790250000358
-Imagen: https://images.openbeautyfacts.org/images/products/779/025/000/0358/front_en.5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CAFE INSTANTANEO ARLISTAN 50G
-Archivo: imagenes/d31f093b-8a08-4555-9027-32efc8154ac7.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790070933652
-Imagen: https://images.openfoodfacts.net/images/products/779/007/093/3652/front_en.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-KETCHUP HELLMANNS
-Archivo: imagenes/4dd8589c-84a7-4903-9cb2-e8a17c38b026.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794000960275
-Imagen: https://images.openfoodfacts.net/images/products/779/400/096/0275/front_es.15.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SAVORA
-Archivo: imagenes/bd7e28e2-a864-405e-b149-7a7fe024ebcc.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794000006492
-Imagen: https://images.openfoodfacts.net/images/products/779/400/000/6492/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CALDO DE VERDURA
-Archivo: imagenes/e3b40f86-ca7a-4cb8-b274-e5a3f396fc66.jpg
-Autor: Veganbaking.net from USA
-Producto: https://commons.wikimedia.org/wiki/File:Vegan_Vegetable_Stock_(8530528590).jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/6/63/Vegan_Vegetable_Stock_%288530528590%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-AZUCAR LEDEZMA
-Archivo: imagenes/819f83db-1938-4bcc-a26d-b9fcd2446dc7.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792540260138
-Imagen: https://images.openfoodfacts.net/images/products/779/254/026/0138/front_es.36.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MILANESA DE SOJA X 4 UNIDADES
-Archivo: imagenes/51923c22-b821-4be7-95d3-0bb8983cf823.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790174000564
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/400/0564/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-CAFE DE COLAR BONAFIDE X 250 GRAMOS
-Archivo: imagenes/6b24e6ad-146a-4531-b8e3-b4671ae8935e.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792360002079
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/236/000/2079/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-POLENTA
-Archivo: imagenes/0e2ea140-73c2-4ad5-8e29-c6c330a7ed13.jpg
-Autor: Popo le Chien
-Producto: https://commons.wikimedia.org/wiki/File:Polenta_uncooked.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/1/1d/Polenta_uncooked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-LOMO DE ATUN GOMES DA COSTA X 170G
-Archivo: imagenes/1adf8e0b-35de-427c-8fa4-223074ee525f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7891167831179
-Imagen: https://images.openfoodfacts.net/images/products/789/116/783/1179/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CHIZITO KRACHITOS 170G
-Archivo: imagenes/d0a7313c-3874-4330-8f89-589d999006d8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794520869010
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/9010/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PASEO CON SEMILLA
-Archivo: imagenes/12418716-1257-4d17-a0f4-b893a68a09ec.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792180139375
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/218/013/9375/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ACEITE NATURA 900ML GIRASOL
-Archivo: imagenes/96e580d8-3733-4ed2-b150-c89818ccb027.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790272001005
-Imagen: https://images.openfoodfacts.net/images/products/779/027/200/1005/front_es.44.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LECHE ENTERA
-Archivo: imagenes/4a61e623-b337-4c6a-bfc3-e4c775591e09.jpg
-Autor: Miriam Guterland
-Producto: https://commons.wikimedia.org/wiki/File:Vollmilch_im_Glas.JPG
-Imagen: https://upload.wikimedia.org/wikipedia/commons/b/b9/Vollmilch_im_Glas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-LECHE SERENISIMA LARGA VIDA
-Archivo: imagenes/bfdfc04c-1737-46ca-8cec-63054717219e.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790742357007
-Imagen: https://images.openfoodfacts.net/images/products/779/074/235/7007/front_es.16.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PAPELILLO OCB NEGRO
-Archivo: imagenes/03c49e4e-7ec8-4a53-b30a-2f10a19f3e68.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/30052765
-Imagen: https://images.openproductsfacts.org/images/products/000/003/005/2765/front_fr.11.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-HINDS PIEL SECA
-Archivo: imagenes/0ef7ebd3-f56a-4641-8c93-86cf862abd8b.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7794640171222
-Imagen: https://images.openbeautyfacts.org/images/products/779/464/017/1222/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-COLGATE DENTIFRICO
-Archivo: imagenes/ececa535-c2d3-4d0b-ac7e-8878d7c12a14.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/00014426
-Imagen: https://images.openbeautyfacts.org/images/products/000/000/001/4426/front_es.18.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALCOHOL X 250
-Archivo: imagenes/7d7181c7-3a03-449d-8344-a0f36dbc508a.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/8414580033174
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/841/458/003/3174/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-JABON LUX
-Archivo: imagenes/ce683747-a7c3-4825-b94b-ab61ff80cb7d.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7791293050843
-Imagen: https://images.openbeautyfacts.org/images/products/779/129/305/0843/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-JABON DOVE
-Archivo: imagenes/c2769f16-ab37-4d80-ad13-d5f25fb2b5be.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7891150019560
-Imagen: https://images.openbeautyfacts.org/images/products/789/115/001/9560/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
-
-SHAMPOO SEDAL 190 ML
-Archivo: imagenes/ed952d7f-b4db-4052-a47c-f14e4f0ba03f.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7791293046365
-Imagen: https://images.openbeautyfacts.org/images/products/779/129/304/6365/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ACONDICIONADOR DOVE 200ML
-Archivo: imagenes/cfe6c676-bb3a-4b48-a081-d618d68a4ccb.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7891150008816
-Imagen: https://images.openbeautyfacts.org/images/products/789/115/000/8816/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-DESODORANTE AXE 150 ML
-Archivo: imagenes/1bd7cf74-acbd-4e20-b314-c6df9643593e.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7791293043814
-Imagen: https://images.openbeautyfacts.org/images/products/779/129/304/3814/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-desodorante rexona
-Archivo: imagenes/622977bc-bd51-423a-84e3-9b73349cbae7.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7791293035826
-Imagen: https://images.openbeautyfacts.org/images/products/779/129/303/5826/front_pt.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-rexona 150 ml anti bacterial
-Archivo: imagenes/a3a008b9-813f-4242-9e1f-1070d94bfce1.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7791293025537
-Imagen: https://images.openbeautyfacts.org/images/products/779/129/302/5537/front_es.5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-garnier rubio claro
-Archivo: imagenes/71f9a035-34cd-427c-a220-e4158cc40e9b.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/3600541375758
-Imagen: https://images.openbeautyfacts.org/images/products/360/054/137/5758/front_es.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-off aerosol
-Archivo: imagenes/4ce40e0c-d765-4011-9c12-a2a3243ee5ae.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/7894650130117
-Imagen: https://images.openproductsfacts.org/images/products/789/465/013/0117/front_pt.7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-Cif en crema
-Archivo: imagenes/e3415e77-3b6c-4c75-8b4e-69be255814c2.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/7791290792500
-Imagen: https://images.openproductsfacts.org/images/products/779/129/079/2500/front_es.7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-poett suavidad de algodon
-Archivo: imagenes/b9dbfab4-748f-4ca2-b82e-027afc8b3939.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/7793253002176
-Imagen: https://images.openproductsfacts.org/images/products/779/325/300/2176/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ceramicol lustramuebles
-Archivo: imagenes/a61a2f89-b625-4885-a78f-82f069eaa502.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/7790520997005
-Imagen: https://images.openproductsfacts.org/images/products/779/052/099/7005/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-carefree protectores X20 sin perfume
-Archivo: imagenes/6ad31f89-901b-42fe-8f3d-cd287956d075.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/3574661552583
-Imagen: https://images.openbeautyfacts.org/images/products/357/466/155/2583/front_xx.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-toallitas humedas huggies X48
-Archivo: imagenes/19e25301-6aa9-4c7c-a1ea-e7508a333ad9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794626011054
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/462/601/1054/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-selton espirales X12
-Archivo: imagenes/732f5b95-6017-4cd1-b445-41bb2dee3295.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793253006822
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/325/300/6822/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-detergente cif lima
-Archivo: imagenes/bef47dcc-9c68-4989-95f7-301f31873041.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791290794115
-Imagen: https://images.openfoodfacts.net/images/products/779/129/079/4115/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-jabon en polvo ala
-Archivo: imagenes/6240119a-0d2c-4878-afb6-ea9237fc77e1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791290792098
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/2098/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-lavandina ayudin
-Archivo: imagenes/f5996ae4-ed3a-4117-854d-da808958ade5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790132098459
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/013/209/8459/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ESPONJA DE ACERO
-Archivo: imagenes/e451eeed-971f-4282-849d-5546e3a997e3.jpg
-Autor: Patrick Pelletier
-Producto: https://commons.wikimedia.org/wiki/File:S.O.S_Soap_Pad.JPG
-Imagen: https://upload.wikimedia.org/wikipedia/commons/c/c3/S.O.S_Soap_Pad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-jabon liquido skip
-Archivo: imagenes/c63fcf44-3c7a-4523-bdbe-eb03452155a6.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791290792814
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/2814/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-suavizante de ropa vivere
-Archivo: imagenes/5c4f2893-814d-4090-ab5e-010696b9e48b.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791290793750
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/3750/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CAFE TORRADO BONAFIDE
-Archivo: imagenes/2744f839-9c73-463b-b0ac-a22dd0399025.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792360094968
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/236/009/4968/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-YERBA LA TRANQUERA 500G
-Archivo: imagenes/b8490d08-3a0a-4de8-b180-200e656f5933.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790480089734
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/048/008/9734/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA ROSAMONTE suave 500G
-Archivo: imagenes/1ef3ac60-c458-495b-af06-eda8cdf26181.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790411001989
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/041/100/1989/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PAN LACTAL chico
-Archivo: imagenes/b7f930d9-f157-46d7-b8f9-02945b66738c.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793890258769
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8769/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa. Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-PAN BLANCO LACTAL 315g
-Archivo: imagenes/69a8f27f-496c-4be7-a3ca-59f75053d2b2.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793890258769
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8769/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-
-PAPEL HIGIENICO
-Archivo: imagenes/7f76eeb8-7adb-49e2-af18-eefa6a38a2ec.jpg
-Autor: Cmann999
-Producto: https://commons.wikimedia.org/wiki/File:Toilet_paper_roll.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/c/cd/Toilet_paper_roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-PAN HAMBURGUESA chico
-Archivo: imagenes/5fa371e7-e055-494d-afea-78f75623c38f.jpg
-Autor: TurnOnTheNight
-Producto: https://commons.wikimedia.org/wiki/File:Hamburger_buns_at_BJBF_2026_20260503154048.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/7/7c/Hamburger_buns_at_BJBF_2026_20260503154048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-REXONA ODORONO
-Archivo: imagenes/d7d55c56-ad49-47b3-9333-6b8642bacb8f.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/77987983
-Imagen: https://images.openbeautyfacts.org/images/products/000/007/798/7983/front_es.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-QUESO RAYADO LA QUESERA 40G
-Archivo: imagenes/ec558aa9-f65a-4b74-ad3b-239bc0df37b0.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792882000010
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/288/200/0010/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-NESQUIK 200ML
-Archivo: imagenes/6a6711f4-f8a7-4680-b52c-6b8e6740a1fc.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/8445291395961
-Imagen: https://images.openfoodfacts.net/images/products/844/529/139/5961/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GUAYMAYEN SIMPLE BLANCO
-Archivo: imagenes/c6617e7f-9405-4bd2-82fd-1615e82cb258.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77980212
-Imagen: https://images.openfoodfacts.net/images/products/000/007/798/0212/front_es.47.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-DULCE DE LECHE el QUEBRACHAL 400G
-Archivo: imagenes/286893ab-0b3e-47cd-847f-fdffdcdbd34b.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798058690108
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/805/869/0108/9.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS SALVADO HOGAREÑAS
-Archivo: imagenes/32d1cfd8-bfba-4a7b-b292-1bdd4737faaf.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040132955
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/2955/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CHOCOLATADA TREGAR 200ML
-Archivo: imagenes/c3ac2261-96b2-4038-825f-0194400842fb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793913002119
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/391/300/2119/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PAPAS MAROLIO
-Archivo: imagenes/edc68276-c557-4a06-ad4e-022422a91aaa.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7797470197080
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/747/019/7080/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-Salamín
-Archivo: imagenes/2c1059a5-f707-4ce8-b78e-2372dfaebab5.jpg
-Autor: Horacio Cambeiro
-Producto: https://commons.wikimedia.org/wiki/File:Salam%C3%ADn_estilo_tucumano.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/7/75/Salam%C3%ADn_estilo_tucumano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-Pan de Pancho
-Archivo: imagenes/20a4e17e-5be3-4314-83c4-f421c51898ff.jpg
-Autor: Stacy Spensley
-Producto: https://commons.wikimedia.org/wiki/File:Homemade_whole_wheat_hot_dog_buns.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/0/06/Homemade_whole_wheat_hot_dog_buns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-Pan lactal Salvado
-Archivo: imagenes/5f732855-da7f-4507-a071-ba57eca4ded8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793890258776
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8776/6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-
-GRANIX SALVADO
-Archivo: imagenes/a35d21bb-548d-4f55-be57-5ee4e06b95b6.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790045826200
-Imagen: https://images.openfoodfacts.net/images/products/779/004/582/6200/front_es.33.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BAGGIO 1L NARANJA
-Archivo: imagenes/5d245dd9-2816-498c-8b40-7bf7656cbe23.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790036000329
-Imagen: https://images.openfoodfacts.net/images/products/779/003/600/0329/front_es.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CEPITA NARANJA
-Archivo: imagenes/24fefd9a-6e7f-46c3-8bcc-17b25b3d0c11.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895009815
-Imagen: https://images.openfoodfacts.net/images/products/779/089/500/9815/front_es.43.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-quilmes clasica
-Archivo: imagenes/27e44764-32f4-4a2a-9fab-e1fe5b80fa07.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798007387
-Imagen: https://images.openfoodfacts.net/images/products/779/279/800/7387/front_en.5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-speed
-Archivo: imagenes/cf50aef4-9837-4b87-a663-ab4782bf0992.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798119220015
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/811/922/0015/5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-jugo cepita 200ml
-Archivo: imagenes/49d32ac7-c8c3-48a3-8a09-12a3a032629e.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895000720
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/500/0720/5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-schneider 473ml
-Archivo: imagenes/ebb2159f-569b-4fb2-a2c0-9e7942a5733d.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793147118860
-Imagen: https://images.openfoodfacts.net/images/products/779/314/711/8860/front_es.16.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-stella artois 473ml
-Archivo: imagenes/1d810509-e14d-4d80-8546-f956db3b5f2c.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798014361
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/801/4361/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-
-quilmes stout negra 473ml
-Archivo: imagenes/389d635b-c14d-4965-a6df-008f71238ead.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798001316
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/1316/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-smirnoff ice green apple
-Archivo: imagenes/1c5ad004-3d8f-458e-9484-dc454eafce7b.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791250003127
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/125/000/3127/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-smirnoff ice red berries
-Archivo: imagenes/0a68b7d0-fef4-4d76-9ac2-9f829d3ee168.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791250003189
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/125/000/3189/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-coca cola 600ml
-Archivo: imagenes/a56deed7-60bd-47b0-a2b7-601ee23a6962.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895650833
-Imagen: https://images.openfoodfacts.net/images/products/779/089/565/0833/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-coca zero 600ml
-Archivo: imagenes/591b146a-0be6-446e-9e22-50a7c40737f5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895067549
-Imagen: https://images.openfoodfacts.net/images/products/779/089/506/7549/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-corona 330ml
-Archivo: imagenes/27da3ab2-f42f-413d-bd0d-d559046afcc7.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798003709
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/3709/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-fanta 600ml
-Archivo: imagenes/b9d7a309-0114-4095-9992-ee522423ff6d.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895650888
-Imagen: https://images.openfoodfacts.net/images/products/779/089/565/0888/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-sprite 600ml
-Archivo: imagenes/ba67a0d0-b930-4fd4-8109-e30201498074.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895650871
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/565/0871/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-sprite zero
-Archivo: imagenes/88863d56-ee82-4700-98f8-7a31c509a695.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895064173
-Imagen: https://images.openfoodfacts.net/images/products/779/089/506/4173/front_es.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-aquarius manzana 600ml
-Archivo: imagenes/13b5c9c6-5c91-4b9d-90f8-71658fed96f1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895009211
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/500/9211/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-agua con gas villavicencio 500ml
-Archivo: imagenes/4be37943-aa60-4998-acc2-7a7489e75379.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798062547801
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/806/254/7801/6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-agua smart water con gas
-Archivo: imagenes/1622c4fb-8274-4bcd-8c22-8353ff6c2bf3.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790895646027
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/564/6027/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-agua smart water 591ml
-Archivo: imagenes/5a5191b8-4bee-471c-8471-4024d97f157e.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/0786162650351
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/078/616/265/0351/9.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-dr lemon 1l
-Archivo: imagenes/49e56916-b75f-4a3f-897a-63408bae1a34.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790950136432
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/095/013/6432/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-
-heineken
-Archivo: imagenes/de611de7-c805-467f-99d3-6ddde45f1904.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793147009199
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/314/700/9199/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-manaos soda
-Archivo: imagenes/c143e420-a913-479d-90ee-07e5797a86c5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798113301529
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/811/330/1529/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-patagonia amber lager
-Archivo: imagenes/40680b44-0fc8-4fae-bf1a-3253c1d2c66f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798001965
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/1965/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-cerveza patagonia vera ipa
-Archivo: imagenes/3d2e3233-4327-4b1e-94c3-2ea703c67ab0.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792798003938
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/3938/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
 
 GANCIA 950 ML
 Archivo: imagenes/386c51a8-c956-4912-8530-c792b8c6a080.jpg
 Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7790950000160
 Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/095/000/0160/5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SKYY
-Archivo: imagenes/c59cdb0e-c0b1-46d9-928c-7b4a250359ad.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/8000040007009
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/800/004/000/7009/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA MATE PLAYADITO
-Archivo: imagenes/839fd673-3d67-4e52-901a-1a9e9e89d5aa.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793704000911
-Imagen: https://images.openfoodfacts.net/images/products/779/370/400/0911/front_es.93.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PATE DE FOIDE
-Archivo: imagenes/0311b762-7852-40f5-a63f-77bbbae640d0.jpg
-Autor: Peachyeung316
-Producto: https://commons.wikimedia.org/wiki/File:A_Chicken_Liver_pate_from_The_Grand_Cafe.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/e/ec/A_Chicken_Liver_pate_from_The_Grand_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-PICADILLO DE CARNE
-Archivo: imagenes/3a14738d-680f-4e7f-9d4c-7aadc5d568c1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790360720115
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/036/072/0115/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-SEDAL 10ML
-Archivo: imagenes/49d5a8f0-f5f0-46c8-9d2c-114f15afc8d0.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/77942647
-Imagen: https://images.openbeautyfacts.org/images/products/000/007/794/2647/front_es.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BAGGIO MIX FRUTAL 1L
-Archivo: imagenes/65296302-01a5-4350-907b-7de34223198f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790036000367
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/003/600/0367/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BAGGIO MANZANA 1L
-Archivo: imagenes/68ef3d93-e95a-4f9a-9f32-c2e833fcee22.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790036000336
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/003/600/0336/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALMA MORA MALBEC
-Archivo: imagenes/d0025aed-d044-48c9-81bc-27065a571c81.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791540092336
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/154/009/2336/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CHOCOLATADA TREGAR
-Archivo: imagenes/72e5b9e2-02e0-4747-aaba-9a39b00860f9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793913001990
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/391/300/1990/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-krachitos mani pelado
-Archivo: imagenes/7dd47e3d-2fdd-409a-803e-afa20f4614c5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794520412216
-Imagen: https://images.openfoodfacts.net/images/products/779/452/041/2216/front_es.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-HUEVOS MEDIA DOCENA
-Archivo: imagenes/533849c8-95b7-4c50-8ad7-4c10f345e879.jpg
-Autor: Gisela Francisco
-Producto: https://commons.wikimedia.org/wiki/File:Carton_of_eggs.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/b/b1/Carton_of_eggs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-LEVADURA EN CUBO CALSA 50G
-Archivo: imagenes/9989948f-666c-4df2-a10a-e9bf1bfa252f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790813110401
-Imagen: https://images.openfoodfacts.net/images/products/779/081/311/0401/front_en.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SOBRE SEDAL SHAMPO
-Archivo: imagenes/b7818ead-7b78-499f-a828-f4dd0ece6596.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/77942654
-Imagen: https://images.openbeautyfacts.org/images/products/000/007/794/2654/front_en.5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GILLETTE AZUL 2 HOJAS
-Archivo: imagenes/a803e79c-498a-4807-a08c-ae296c880bea.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/7702018467242
-Imagen: https://images.openbeautyfacts.org/images/products/770/201/846/7242/front_en.5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PILAS DURACEL AAA
-Archivo: imagenes/d0a3f9bd-2ce7-4788-a16f-ef0185b66edb.jpg
-Autor: Colaboradores de Open Products Facts
-Producto: https://world.openproductsfacts.org/product/5000394018457
-Imagen: https://images.openproductsfacts.org/images/products/500/039/401/8457/front_en.6.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
-
-DURACELl
-Archivo: imagenes/d48e04d5-f5f8-4a50-a319-37bbe85179fe.jpg
-Autor: Solomon203
-Producto: https://commons.wikimedia.org/wiki/File:Duracell_AA_battery_until_2017-03.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/c/c2/Duracell_AA_battery_until_2017-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0
-Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-CHOCOLINAS 170G
-Archivo: imagenes/d83a979b-cd9c-4a34-9289-9c54a73bed47.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040143227
-Imagen: https://images.openfoodfacts.net/images/products/779/004/014/3227/front_en.19.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS TODDI 126
-Archivo: imagenes/57037f2a-26a0-45b5-a621-2e3768a49ffb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790380023463
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/002/3463/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ROCKLETS 20G
-Archivo: imagenes/d1f67905-6505-4522-b1d9-7c6423d5fab9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790580421007
-Imagen: https://images.openfoodfacts.net/images/products/779/058/042/1007/front_es.29.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-COFLER BLOCK
-Archivo: imagenes/f24dd0a5-2e74-42e2-88bf-7af0bcedbfa2.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77953124
-Imagen: https://images.openfoodfacts.net/images/products/000/007/795/3124/front_es.35.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MINI TORTA AGUILA
-Archivo: imagenes/5af52f85-35e6-424c-bd1a-46a7101cd6f5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040133587
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/3587/9.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALFAJOR PEPITOS
-Archivo: imagenes/8292be63-e379-4f38-b679-579d2b248b96.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77915481
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/791/5481/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GUAYMAYEN TRIPLE BLANCO 70G
-Archivo: imagenes/a94406da-9728-456a-94bc-88198da76961.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77980267
-Imagen: https://images.openfoodfacts.net/images/products/000/007/798/0267/front_es.19.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-JORGITO 50 BLANCO
-Archivo: imagenes/9305d15f-6147-4018-8cd1-914e768cb3e4.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77905758
-Imagen: https://images.openfoodfacts.net/images/products/000/007/790/5758/front_en.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-JORGITO NEGRO 55G
-Archivo: imagenes/325f963d-73d9-4838-ad8f-4f3dd7368708.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77905741
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/790/5741/7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALFAJOR TRI SHOT TRIPLE
-Archivo: imagenes/5881280d-599d-4188-883a-6f7299d02afb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/75737375
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/573/7375/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BELDENT ROJO
-Archivo: imagenes/b5410963-a9b6-4efd-ac02-a1b7004a4ee4.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77969118
-Imagen: https://images.openfoodfacts.net/images/products/000/007/796/9118/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MENTHO PLUS SABOR MIEL
-Archivo: imagenes/04edb8ca-7634-4326-b600-50c8c52507a3.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77958655
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/795/8655/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-
-COFLER RELLENAS CHOCO CREAM
-Archivo: imagenes/0aa73602-e172-4dde-ba56-27db5853fa06.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040143777
-Imagen: https://images.openfoodfacts.net/images/products/779/004/014/3777/front_es.21.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MELLIZAS
-Archivo: imagenes/93b0a150-7188-427f-9ba2-c58067505c34.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040143548
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/014/3548/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS AMOR
-Archivo: imagenes/4eef4b9d-1d8a-4006-aa09-0f56b7263245.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040429208
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/042/9208/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MEREGADAS
-Archivo: imagenes/763eaf28-4064-426d-b75d-e206fd684a49.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040139657
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/9657/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-FRUTIGRAN CHIP CHOCOLATE
-Archivo: imagenes/8ecc566c-430b-4c08-b95d-c717f878dfdf.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790045824893
-Imagen: https://images.openfoodfacts.net/images/products/779/004/582/4893/front_es.58.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-FRUTIGRAN AVENA Y PASAS
-Archivo: imagenes/2164f592-e94e-4266-bede-6370b05a4afe.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790045001188
-Imagen: https://images.openfoodfacts.net/images/products/779/004/500/1188/front_es.67.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-FRUTIGRAN AVENA CHIA LINO
-Archivo: imagenes/5aef6dab-95a2-4540-b370-4b549ebe1daa.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790045825395
-Imagen: https://images.openfoodfacts.net/images/products/779/004/582/5395/front_es.38.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS SABORES DE LA VIDA
-Archivo: imagenes/f2d3fa8d-8c37-46be-92c3-1a73f3578c69.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798126073406
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/812/607/3406/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-OREO GALLETITAS
-Archivo: imagenes/0a58238d-8d9e-410c-98d7-7309e09b7ab7.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7622300864934
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/230/086/4934/10.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SONRISAS GALLETITAS
-Archivo: imagenes/468afeec-4636-4189-bcd4-335a39d12577.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040133488
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/3488/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-VAINILLAS VALENTE 12
-Archivo: imagenes/93486be3-e331-4996-b7c9-260755d7cfdf.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793890252880
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/2880/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BIZCOCHITOS DON SATUR
-Archivo: imagenes/b6ff47b7-dac2-4d1c-807b-8a1bd9a3edb5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7795735000328
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/573/500/0328/22.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-9 DE ORO AZUCARADO
-Archivo: imagenes/75b24dc2-95c0-4513-a2a3-d4d5db889ea4.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792200000319
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/220/000/0319/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-9 DE ORO AGRIDULCE
-Archivo: imagenes/d05676e6-6aea-425c-a39f-058b9b950640.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792180139726
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/218/013/9726/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MAGDALENA VALENTE
-Archivo: imagenes/c000866d-ba43-4455-8113-5f8fe404345f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7793890259094
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/9094/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS GALLEGUITAS
-Archivo: imagenes/2e95f7ef-8877-4092-a5ec-1c8a48db7aa8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7795733001075
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/573/300/1075/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PITUZAS MOUSE CHOCOLATE
-Archivo: imagenes/91ece007-6cca-419d-9284-356b05c629eb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791324157084
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7084/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PITUZAS VAINILLA
-Archivo: imagenes/8248e78c-f0e7-4368-a16f-526740c7d5ab.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791324157022
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7022/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-GALLETITAS PASEO CLASICAS
-Archivo: imagenes/9d9c33a6-c267-41d7-b2e5-4480b6e368ff.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792180137845
-Imagen: https://images.openfoodfacts.net/images/products/779/218/013/7845/front_es.15.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PEPAS TRICHOC
-Archivo: imagenes/8e66bce0-5df5-4985-90b6-cad6c5f5ea42.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791787000705
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/178/700/0705/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PEPAS TRIO
-Archivo: imagenes/f5d6144d-de89-48a6-a556-400b9edf832a.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791787000422
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/178/700/0422/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SURTIDO BAGLEY 400 G
-Archivo: imagenes/49100df9-e7c7-4b9c-8f01-6571228e41cd.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790040147720
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/014/7720/9.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LECHE LA SERENISIMA LARGA VIDA
-Archivo: imagenes/77259cbd-1602-46df-9899-055a8a463d59.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790742357007
-Imagen: https://images.openfoodfacts.net/images/products/779/074/235/7007/front_es.16.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-VINAGRE MENOYO 500ML
-Archivo: imagenes/3e499ff2-b9a0-4055-a342-57e17100ee2c.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790130000034
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/013/000/0034/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CINDOR 200ML
-Archivo: imagenes/e41648c1-a9b3-40d5-9f27-6622138d7ba1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791337007260
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/133/700/7260/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CHOCOLATE HAMLET FRUTILLA 43G
-Archivo: imagenes/3281564b-058a-4aa1-a96a-1cde4a229508.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794612066419
-Imagen: https://images.openfoodfacts.net/images/products/779/461/206/6419/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CHOCOLATE HAMLET BICOLOR 42G
-Archivo: imagenes/ab46a549-3365-4d43-9507-be6f08525af9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794612491013
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/461/249/1013/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG.
-
-CHOCOLATE HAMLET ALMENDRAS Y MANI 45G
-Archivo: imagenes/fe9d8237-f646-4ed1-b10c-4b9108d051e1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794612065719
-Imagen: https://images.openfoodfacts.net/images/products/779/461/206/5719/front_es.17.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-harina pureza 0000
-Archivo: imagenes/cd4bc22a-dd7a-4e98-b77d-e9220878982b.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792180004871
-Imagen: https://images.openfoodfacts.net/images/products/779/218/000/4871/front_es.10.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SAL FINA 2 ESTRLLAS
-Archivo: imagenes/c11049b8-3058-4fa6-97ab-39e1c36bc1aa.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792900092706
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/290/009/2706/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SAL GRUESA 2 ANCLAS
-Archivo: imagenes/8ead0741-aebf-4f8f-9155-dff8d7e9ac20.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792900092676
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/290/009/2676/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LA GOTITA
-Archivo: imagenes/27b4dda8-a94e-401f-a4d0-de1e29901145.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77917188
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/791/7188/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-NATURA SALSA GOLF
-Archivo: imagenes/282b6e60-a819-4d1d-8aa2-82e7520576ad.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791866000480
-Imagen: https://images.openfoodfacts.net/images/products/779/186/600/0480/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MAYONESA NATURA
-Archivo: imagenes/ff916c19-547b-4a23-854e-0727e42f9266.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791866001364
-Imagen: https://images.openfoodfacts.net/images/products/779/186/600/1364/front_es.59.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-NESQUIK
-Archivo: imagenes/5b563ba5-893d-4fa6-9e3b-ec707f35cde6.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7613034450074
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/761/303/445/0074/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-GELATINA NARANJA
-Archivo: imagenes/215f74c5-2afa-46f2-8538-914a6bc2373a.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7622210647283
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/221/064/7283/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-GELATINA CEREZA RAVANA
-Archivo: imagenes/1c1983b4-c125-407e-b809-84d7a7de8ae2.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790971002150
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/097/100/2150/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-FLAN VAINILLA RAVANA
-Archivo: imagenes/a41c445c-8d64-4965-849d-9b057b3f3275.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790971001931
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/097/100/1931/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-TE TARAGUI
-Archivo: imagenes/8c1e6d61-9db3-40b2-adef-7dc549d3f176.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790387013344
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/701/3344/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-MATE COCIDO TARAGUI
-Archivo: imagenes/2d37dce5-57b8-4edc-89ff-45db84910221.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790387000849
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/700/0849/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CACHAMAI MANZANILLA
-Archivo: imagenes/17c2928c-6e27-49b3-947e-a67b7bafdbc3.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792280000377
-Imagen: https://images.openfoodfacts.net/images/products/779/228/000/0377/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CACHAMAI BOLDO
-Archivo: imagenes/2d59b209-7b48-46cd-85f5-b8d5fb2f7d90.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792280000353
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/228/000/0353/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA AMANDA
-Archivo: imagenes/09608745-ab4f-423b-9732-8465ff486a65.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792710000182
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/271/000/0182/8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA NOBLEZA GAUCHA 500G
-Archivo: imagenes/cdaa471e-54f4-4ea4-8a73-d14562e6ff39.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790070507112
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/007/050/7112/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA MAÑANITA 500G
-Archivo: imagenes/41918cde-2247-414b-9bbc-5a6c86346e24.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790387015324
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/701/5324/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-YERBA TARAGUI
-Archivo: imagenes/fda40152-bb50-49ba-8656-6c62b9febfa5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790387110234
-Imagen: https://images.openfoodfacts.net/images/products/779/038/711/0234/front_es.25.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-COPOS DE MAIZ
-Archivo: imagenes/fd21e3ec-c225-4fb6-aa64-79566cc82c2c.jpg
-Autor: Famartin
-Producto: https://commons.wikimedia.org/wiki/File:2020-05-04_10_40_21_A_sample_of_Kellogg%27s_Corn_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/c/c9/2020-05-04_10_40_21_A_sample_of_Kellogg%27s_Corn_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-CLIGHT MANZANA
-Archivo: imagenes/56b72cd7-45b4-4c50-81cb-c72979a01cce.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7622210812711
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/221/081/2711/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CREMA PARA COCINAR
-Archivo: imagenes/35e78ff9-8097-42a6-968f-861e1d48867c.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790742141606
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/074/214/1606/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-MANTECA LA PAULINA 100G
-Archivo: imagenes/627063ed-9da2-4dc0-ab21-06ac5b0e9906.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790398100071
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/039/810/0071/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-TAPAS DE EMPANADA ORALI
-Archivo: imagenes/85c22fff-1096-494e-8427-c28760c24b33.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791218000090
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/121/800/0090/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CAFEB EN SAQUITOS LA MORENITA X 1
-Archivo: imagenes/496b8aef-60f9-48d9-8181-73832c8db0ba.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790170000025
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/000/0025/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-NESCAFE DOLCA SUEVE 100 GRAMOS
-Archivo: imagenes/62da7d4d-156c-4f48-8939-a846eac15313.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7613287292896
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/761/328/729/2896/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CEFE LA VIRGINIA INSTANTANEO X 100G
-Archivo: imagenes/b33db7a3-d29e-4423-9331-5ace5b9abd37.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790150102039
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/015/010/2039/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-HILERET CLASICO X250 ML
-Archivo: imagenes/61261fae-2f2a-4ecf-b1ef-713918458390.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794940000819
-Imagen: https://images.openfoodfacts.net/images/products/779/494/000/0819/front_es.20.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-HILERET
-Archivo: imagenes/a98958b0-3a6e-41f0-8a20-6518ca9070f0.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794940000826
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/494/000/0826/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-TALLARIN MATARAZZO
-Archivo: imagenes/be905585-67d2-43dd-bd97-384ab77bd87a.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790070336316
-Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6316/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MOLTO RIGATTI
-Archivo: imagenes/71c3bbcc-f78b-411f-865a-9805b678c61f.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798138552333
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/813/855/2333/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LUCCHETTI MOSTACHOL
-Archivo: imagenes/fb0147df-0c3b-45a0-a968-b737f1ef8631.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790070336149
-Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6149/front_es.18.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LUCCHETTI TIRABUZON
-Archivo: imagenes/32269045-d4a5-4157-a4e0-f2bd35fc97f5.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790070336026
-Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6026/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SALSA LISTA KNORR POMAROLA
-Archivo: imagenes/7baa1579-6592-4eee-8fed-f15d8fedfe1d.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794000003750
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/400/000/3750/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SALSA LISTA KNORR FILETTO
-Archivo: imagenes/d4a77608-0453-4cb6-9914-627fe9a241f4.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794000003712
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/400/000/3712/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SALSA LISTA PIZZA KNORR
-Archivo: imagenes/66050405-1cfa-48fd-9795-11e48b6a88b8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794000003699
-Imagen: https://images.openfoodfacts.net/images/products/779/400/000/3699/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ACEITUNA CASTELL DESCAROZADA
-Archivo: imagenes/ab765a00-79e3-4250-9afc-5840e441501e.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791675908946
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/167/590/8946/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PURE TOMATE LA HUERTA 530
-Archivo: imagenes/b05f86d5-a410-4186-b4ee-65e5ef8c6b73.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790036567440
-Imagen: https://images.openfoodfacts.net/images/products/779/003/656/7440/front_es.24.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-LENTEJAS INCA
-Archivo: imagenes/08a3cc86-96ab-4882-827c-3adcf8b909f9.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790790124293
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/4293/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ARVEJAS INCA
-Archivo: imagenes/306896cf-8cc9-43ed-9d08-aed2dcee0781.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790790120257
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/0257/7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PRIMAVERA INCA
-Archivo: imagenes/91f0c8be-7c4c-4096-9579-a09599011d7b.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790790120288
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/0288/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PAPAS FRITAS KRACHITOS 55G
-Archivo: imagenes/3fbfa52b-637d-408a-8ee5-100a8cadfb10.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794520868914
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/8914/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-MANI PELADO KRACHITO 110G
-Archivo: imagenes/8cec8f2b-c796-4a95-a376-50686737eeef.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7794520868990
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/8990/2.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PEPITOS
-Archivo: imagenes/874a4b21-b42c-4c92-a382-4cac1aeb7578.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7622201735906
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/220/173/5906/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MENTITAS 26
-Archivo: imagenes/d6e06cc6-453e-4f2c-a431-b8c78559f257.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798094340562
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/809/434/0562/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-RASTA NEGRO
-Archivo: imagenes/452cb9f1-e735-40ce-b010-75c974e8fd8d.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798397444202
-Imagen: https://images.openfoodfacts.net/images/products/779/839/744/4202/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-RASTA BLANCO
-Archivo: imagenes/d0d91b4e-1c73-4647-86dd-dba34680fe73.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7798397440013
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/839/744/0013/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALFAJOR OREO
-Archivo: imagenes/065d3c8c-12a4-4bc5-8eb3-90ba5bba9ea3.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77976307
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/797/6307/7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-NUGATON BONAFIDE 27G
-Archivo: imagenes/04f12adc-3611-4497-a225-77cc65a46873.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792360072447
-Imagen: https://images.openfoodfacts.net/images/products/779/236/007/2447/front_es.3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-DOS CORAZONEZ
-Archivo: imagenes/fe606135-a8b9-4ced-9ab2-f6da416d8009.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77907509
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/790/7509/3.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-MARROC FEL FORT
-Archivo: imagenes/d69d4665-4823-4872-a945-fe5aff40a502.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790206006106
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/020/600/6106/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-BELDENT VERDE
-Archivo: imagenes/abde42c2-8f26-466f-a2c3-dbdcd82bff88.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/77969071
-Imagen: https://images.openfoodfacts.net/images/products/000/007/796/9071/front_es.25.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SALADIX 100G
-Archivo: imagenes/f253c1ea-ec34-431c-bce9-2fa560a154bd.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790580697303
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/069/7303/5.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-COPOZ DE MAIZ AZUCARADOS
-Archivo: imagenes/c44fe0b2-5473-40d7-8868-6f7aa99cebd4.jpg
-Autor: Famartin
-Producto: https://commons.wikimedia.org/wiki/File:2020-05-03_09_27_12_A_sample_of_Kellogg%27s_Frosted_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/0/04/2020-05-03_09_27_12_A_sample_of_Kellogg%27s_Frosted_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-PITUZAS JALEA FRANBUESA
-Archivo: imagenes/6002c7e0-85b9-46ec-b56e-16a913504713.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7791324157527
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7527/7.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CEREALITAS CLASICAS
-Archivo: imagenes/643149a9-c071-4e56-a906-dfd0b26cb985.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7622300840259
-Imagen: https://images.openfoodfacts.net/images/products/762/230/084/0259/front_es.24.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-CEPILLO DE DIENTE COLGATE
-Archivo: imagenes/33c19560-d5f1-4637-871e-a3101005ac44.jpg
-Autor: Colaboradores de Open Beauty Facts
-Producto: https://world.openbeautyfacts.org/product/6910021007206
-Imagen: https://images.openbeautyfacts.org/images/products/691/002/100/7206/front_es.8.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-ALGODON ESTRELLA
-Archivo: imagenes/e1d8b877-e3e5-42e5-a78e-ba7e6e0e1cac.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790064000124
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/006/400/0124/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-PALITO HELADO CREMA AMERICANA
-Archivo: imagenes/ddab81bd-e50b-4b78-8b5e-24f448b874d1.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790580112394
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/011/2394/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa. Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-YERBA MATE MAROLIO
-Archivo: imagenes/a8d67537-09ea-4e74-91ac-3f4326a2679d.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7797470000090
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/747/000/0090/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-SMIRNOFF
-Archivo: imagenes/a84abef3-d856-4ec5-8483-0105e395115e.jpg
-Autor: Alex P. Kok
-Producto: https://commons.wikimedia.org/wiki/File:Smirnoff_Vodka_bottle_front.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/5/50/Smirnoff_Vodka_bottle_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
-Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-mogul gomitas
-Archivo: imagenes/e039100a-54b0-431a-9bfa-21bf33e102cb.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790580116965
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/011/6965/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Cambios: Foto ilustrativa.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
-
-chocolatada nesquik
-Archivo: imagenes/87a2ffda-8d8d-47b6-b74d-ec9712ff63e8.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/8445290848956
-Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/844/529/084/8956/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-
-HARINA 000 CAÑUELAS
-Archivo: imagenes/2e2bc2b1-d93b-4e23-824c-18caa8c4e314.jpg
-Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7792180139320
-Imagen: https://images.openfoodfacts.net/images/products/779/218/013/9320/front_es.4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
 
 TAKIS 85 G
 Archivo: imagenes/6fce6c4e-33fe-47de-be5b-941642f797c3.jpg
 Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7500810034477
 Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/750/081/003/4477/1.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
 
-panchos
-Archivo: imagenes/705c8a19-f850-43b7-8478-37c1584dae75.jpg
-Autor: Evan Swigart from Chicago, USA
-Producto: https://commons.wikimedia.org/wiki/File:Hotdog_-_Evan_Swigart.jpg
-Imagen: https://upload.wikimedia.org/wikipedia/commons/f/fb/Hotdog_-_Evan_Swigart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-Licencia: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0
+COPOZ DE MAIZ AZUCARADOS
+Archivo: imagenes/c44fe0b2-5473-40d7-8868-6f7aa99cebd4.jpg
+Autor: Famartin
+Producto: https://commons.wikimedia.org/wiki/File:2020-05-03_09_27_12_A_sample_of_Kellogg%27s_Frosted_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/0/04/2020-05-03_09_27_12_A_sample_of_Kellogg%27s_Frosted_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
 Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
-Uso: fotografía ilustrativa; no representa necesariamente la presentación exacta.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
 
-finlandia queso crema
-Archivo: imagenes/7e629ae2-f26e-4896-bcba-0423635a4c58.jpg
+PITUZAS VAINILLA
+Archivo: imagenes/8248e78c-f0e7-4368-a16f-526740c7d5ab.jpg
 Autor: Colaboradores de Open Food Facts
-Producto: https://world.openfoodfacts.org/product/7790742373205
-Imagen: https://images.openfoodfacts.net/images/products/779/074/237/3205/front_es.50.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Producto: https://world.openfoodfacts.org/product/7791324157022
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7022/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LEVADURA EN CUBO CALSA 50G
+Archivo: imagenes/9989948f-666c-4df2-a10a-e9bf1bfa252f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790813110401
+Imagen: https://images.openfoodfacts.net/images/products/779/081/311/0401/front_en.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+VAINILLAS VALENTE 12
+Archivo: imagenes/93486be3-e331-4996-b7c9-260755d7cfdf.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793890252880
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/2880/3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MARROC FEL FORT
+Archivo: imagenes/d69d4665-4823-4872-a945-fe5aff40a502.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790206006106
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/020/600/6106/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+AZUCAR LEDEZMA
+Archivo: imagenes/819f83db-1938-4bcc-a26d-b9fcd2446dc7.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792540260138
+Imagen: https://images.openfoodfacts.net/images/products/779/254/026/0138/front_es.36.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PRIMAVERA INCA
+Archivo: imagenes/91f0c8be-7c4c-4096-9579-a09599011d7b.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790790120288
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/0288/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ALGODON ESTRELLA
+Archivo: imagenes/e1d8b877-e3e5-42e5-a78e-ba7e6e0e1cac.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790064000124
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/006/400/0124/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LUCCHETTI MOSTACHOL
+Archivo: imagenes/fb0147df-0c3b-45a0-a968-b737f1ef8631.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790070336149
+Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6149/front_es.18.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+DULCE DE LECHE el QUEBRACHAL 400G
+Archivo: imagenes/286893ab-0b3e-47cd-847f-fdffdcdbd34b.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798058690108
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/805/869/0108/9.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PATE DE FOIDE
+Archivo: imagenes/0311b762-7852-40f5-a63f-77bbbae640d0.jpg
+Autor: Peachyeung316
+Producto: https://commons.wikimedia.org/wiki/File:A_Chicken_Liver_pate_from_The_Grand_Cafe.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/e/ec/A_Chicken_Liver_pate_from_The_Grand_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+GELATINA CEREZA RAVANA
+Archivo: imagenes/1c1983b4-c125-407e-b809-84d7a7de8ae2.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790971002150
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/097/100/2150/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+dr lemon 1l
+Archivo: imagenes/49e56916-b75f-4a3f-897a-63408bae1a34.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790950136432
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/095/013/6432/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+
+COPOS DE MAIZ
+Archivo: imagenes/fd21e3ec-c225-4fb6-aa64-79566cc82c2c.jpg
+Autor: Famartin
+Producto: https://commons.wikimedia.org/wiki/File:2020-05-04_10_40_21_A_sample_of_Kellogg%27s_Corn_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/c/c9/2020-05-04_10_40_21_A_sample_of_Kellogg%27s_Corn_Flakes_cereal_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+CEPILLO DE DIENTE COLGATE
+Archivo: imagenes/33c19560-d5f1-4637-871e-a3101005ac44.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/6910021007206
+Imagen: https://images.openbeautyfacts.org/images/products/691/002/100/7206/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
 
 finlandia mas liviano
 Archivo: imagenes/cda8b8d5-df46-4d03-9832-08415f6671a2.jpg
 Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7790742324108
 Imagen: https://images.openfoodfacts.net/images/products/779/074/232/4108/front_es.19.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA TARAGUI
+Archivo: imagenes/fda40152-bb50-49ba-8656-6c62b9febfa5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790387110234
+Imagen: https://images.openfoodfacts.net/images/products/779/038/711/0234/front_es.25.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MENTHO PLUS SABOR MIEL
+Archivo: imagenes/04edb8ca-7634-4326-b600-50c8c52507a3.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77958655
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/795/8655/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+
+Milanesa de Soja VEGETALEX
+Archivo: imagenes/51923c22-b821-4be7-95d3-0bb8983cf823.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790174000564
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/400/0564/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAPEL HIGIENICO
+Archivo: imagenes/7f76eeb8-7adb-49e2-af18-eefa6a38a2ec.jpg
+Autor: Cmann999
+Producto: https://commons.wikimedia.org/wiki/File:Toilet_paper_roll.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/c/cd/Toilet_paper_roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+BIZCOCHITOS DON SATUR
+Archivo: imagenes/b6ff47b7-dac2-4d1c-807b-8a1bd9a3edb5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7795735000328
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/573/500/0328/22.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SALADIX 100G
+Archivo: imagenes/f253c1ea-ec34-431c-bce9-2fa560a154bd.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790580697303
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/069/7303/5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+HARINA CASERITA
+Archivo: imagenes/e708d7e9-cbca-4cb7-876f-a81114bb0cf9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792590000159
+Imagen: https://images.openfoodfacts.net/images/products/779/259/000/0159/front_es.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+krachitos mani pelado
+Archivo: imagenes/7dd47e3d-2fdd-409a-803e-afa20f4614c5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794520412216
+Imagen: https://images.openfoodfacts.net/images/products/779/452/041/2216/front_es.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GALLETITAS PASEO CLASICAS
+Archivo: imagenes/9d9c33a6-c267-41d7-b2e5-4480b6e368ff.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792180137845
+Imagen: https://images.openfoodfacts.net/images/products/779/218/013/7845/front_es.15.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+heineken
+Archivo: imagenes/de611de7-c805-467f-99d3-6ddde45f1904.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793147009199
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/314/700/9199/3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+carefree protectores X20 sin perfume
+Archivo: imagenes/6ad31f89-901b-42fe-8f3d-cd287956d075.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/3574661552583
+Imagen: https://images.openbeautyfacts.org/images/products/357/466/155/2583/front_xx.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SKYY
+Archivo: imagenes/c59cdb0e-c0b1-46d9-928c-7b4a250359ad.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/8000040007009
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/800/004/000/7009/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CACHAMAI MANZANILLA
+Archivo: imagenes/17c2928c-6e27-49b3-947e-a67b7bafdbc3.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792280000377
+Imagen: https://images.openfoodfacts.net/images/products/779/228/000/0377/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LECHE SERENISIMA LARGA VIDA
+Archivo: imagenes/77259cbd-1602-46df-9899-055a8a463d59.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790742357007
+Imagen: https://images.openfoodfacts.net/images/products/779/074/235/7007/front_es.16.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GUAYMAYEN SIMPLE BLANCO
+Archivo: imagenes/c6617e7f-9405-4bd2-82fd-1615e82cb258.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77980212
+Imagen: https://images.openfoodfacts.net/images/products/000/007/798/0212/front_es.47.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ALFAJOR PEPITOS
+Archivo: imagenes/8292be63-e379-4f38-b679-579d2b248b96.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77915481
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/791/5481/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA ROSAMONTE suave 500G
+Archivo: imagenes/1ef3ac60-c458-495b-af06-eda8cdf26181.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790411001989
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/041/100/1989/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHOCOLINAS 170G
+Archivo: imagenes/d83a979b-cd9c-4a34-9289-9c54a73bed47.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040143227
+Imagen: https://images.openfoodfacts.net/images/products/779/004/014/3227/front_en.19.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHIZITO KRACHITOS 170G
+Archivo: imagenes/d0a7313c-3874-4330-8f89-589d999006d8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794520869010
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/9010/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PEPAS TRIO
+Archivo: imagenes/f5d6144d-de89-48a6-a556-400b9edf832a.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791787000422
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/178/700/0422/3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GUAYMAYEN TRIPLE BLANCO 70G
+Archivo: imagenes/a94406da-9728-456a-94bc-88198da76961.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77980267
+Imagen: https://images.openfoodfacts.net/images/products/000/007/798/0267/front_es.19.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+corona 330ml
+Archivo: imagenes/27da3ab2-f42f-413d-bd0d-d559046afcc7.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798003709
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/3709/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+dulce de batata x 500
+Archivo: imagenes/31b163b2-dd5f-46b2-aadb-b1ede1143081.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798033337851
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/803/333/7851/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa. Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+detergente cif lima
+Archivo: imagenes/bef47dcc-9c68-4989-95f7-301f31873041.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791290794115
+Imagen: https://images.openfoodfacts.net/images/products/779/129/079/4115/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MANI PELADO KRACHITO 110G
+Archivo: imagenes/8cec8f2b-c796-4a95-a376-50686737eeef.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794520868990
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/8990/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+stella artois 473ml
+Archivo: imagenes/1d810509-e14d-4d80-8546-f956db3b5f2c.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798014361
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/801/4361/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+
+JORGITO 50 BLANCO
+Archivo: imagenes/9305d15f-6147-4018-8cd1-914e768cb3e4.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77905758
+Imagen: https://images.openfoodfacts.net/images/products/000/007/790/5758/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA AMANDA
+Archivo: imagenes/09608745-ab4f-423b-9732-8465ff486a65.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792710000182
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/271/000/0182/8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAPELILLO OCB NEGRO
+Archivo: imagenes/03c49e4e-7ec8-4a53-b30a-2f10a19f3e68.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/30052765
+Imagen: https://images.openproductsfacts.org/images/products/000/003/005/2765/front_fr.11.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+jabon liquido skip
+Archivo: imagenes/c63fcf44-3c7a-4523-bdbe-eb03452155a6.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791290792814
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/2814/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CACHAMAI BOLDO
+Archivo: imagenes/2d59b209-7b48-46cd-85f5-b8d5fb2f7d90.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792280000353
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/228/000/0353/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SMIRNOFF
+Archivo: imagenes/a84abef3-d856-4ec5-8483-0105e395115e.jpg
+Autor: Alex P. Kok
+Producto: https://commons.wikimedia.org/wiki/File:Smirnoff_Vodka_bottle_front.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/5/50/Smirnoff_Vodka_bottle_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+quilmes stout negra 473ml
+Archivo: imagenes/389d635b-c14d-4965-a6df-008f71238ead.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798001316
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/1316/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GALLETITAS GALLEGUITAS
+Archivo: imagenes/2e95f7ef-8877-4092-a5ec-1c8a48db7aa8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7795733001075
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/573/300/1075/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+harina pureza 0000
+Archivo: imagenes/cd4bc22a-dd7a-4e98-b77d-e9220878982b.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792180004871
+Imagen: https://images.openfoodfacts.net/images/products/779/218/000/4871/front_es.10.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LENTEJAS INCA
+Archivo: imagenes/08a3cc86-96ab-4882-827c-3adcf8b909f9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790790124293
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/4293/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MAYONESA NATURA
+Archivo: imagenes/ff916c19-547b-4a23-854e-0727e42f9266.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791866001364
+Imagen: https://images.openfoodfacts.net/images/products/779/186/600/1364/front_es.59.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GELATINA NARANJA
+Archivo: imagenes/215f74c5-2afa-46f2-8538-914a6bc2373a.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7622210647283
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/221/064/7283/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+BAGGIO MANZANA 1L
+Archivo: imagenes/68ef3d93-e95a-4f9a-9f32-c2e833fcee22.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790036000336
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/003/600/0336/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CAFÉ LA VIRGINIA INSTANTANEO X 100G
+Archivo: imagenes/b33db7a3-d29e-4423-9331-5ace5b9abd37.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790150102039
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/015/010/2039/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+NESQUIK 200ML
+Archivo: imagenes/6a6711f4-f8a7-4680-b52c-6b8e6740a1fc.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/8445291395961
+Imagen: https://images.openfoodfacts.net/images/products/844/529/139/5961/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CAFEB EN SAQUITOS LA MORENITA X 1
+Archivo: imagenes/496b8aef-60f9-48d9-8181-73832c8db0ba.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790170000025
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/000/0025/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PURE TOMATE LA HUERTA 530
+Archivo: imagenes/b05f86d5-a410-4186-b4ee-65e5ef8c6b73.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790036567440
+Imagen: https://images.openfoodfacts.net/images/products/779/003/656/7440/front_es.24.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ALCOHOL X 250
+Archivo: imagenes/7d7181c7-3a03-449d-8344-a0f36dbc508a.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/8414580033174
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/841/458/003/3174/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+Pan lactal Salvado
+Archivo: imagenes/5f732855-da7f-4507-a071-ba57eca4ded8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793890258776
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8776/6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+
+off aerosol
+Archivo: imagenes/4ce40e0c-d765-4011-9c12-a2a3243ee5ae.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/7894650130117
+Imagen: https://images.openproductsfacts.org/images/products/789/465/013/0117/front_pt.7.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+QUESO RAYADO LA QUESERA 40G
+Archivo: imagenes/ec558aa9-f65a-4b74-ad3b-239bc0df37b0.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792882000010
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/288/200/0010/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+cerveza patagonia vera ipa
+Archivo: imagenes/3d2e3233-4327-4b1e-94c3-2ea703c67ab0.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798003938
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/3938/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+DULCE DE MEMBRILLO
+Archivo: imagenes/51374e6e-4f5c-4342-ac12-ae7bae2043ea.jpg
+Autor: Javier Lastras from España/Spain
+Producto: https://commons.wikimedia.org/wiki/File:Dulce_de_Membrillo.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/d/db/Dulce_de_Membrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY 2.0 ? https://creativecommons.org/licenses/by/2.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+chocolatada nesquik
+Archivo: imagenes/87a2ffda-8d8d-47b6-b74d-ec9712ff63e8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/8445290848956
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/844/529/084/8956/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ceramicol lustramuebles
+Archivo: imagenes/a61a2f89-b625-4885-a78f-82f069eaa502.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/7790520997005
+Imagen: https://images.openproductsfacts.org/images/products/779/052/099/7005/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SALSA LISTA KNORR FILETTO
+Archivo: imagenes/d4a77608-0453-4cb6-9914-627fe9a241f4.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794000003712
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/400/000/3712/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Cif en crema
+Archivo: imagenes/e3415e77-3b6c-4c75-8b4e-69be255814c2.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/7791290792500
+Imagen: https://images.openproductsfacts.org/images/products/779/129/079/2500/front_es.7.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+9 DE ORO AZUCARADO
+Archivo: imagenes/75b24dc2-95c0-4513-a2a3-d4d5db889ea4.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792200000319
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/220/000/0319/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SAL GRUESA 2 ANCLAS
+Archivo: imagenes/8ead0741-aebf-4f8f-9155-dff8d7e9ac20.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792900092676
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/290/009/2676/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Pimenton
+Archivo: imagenes/cfb1af27-6585-4e6e-926d-940778786ea1.jpg
+Autor: Dguendel
+Producto: https://commons.wikimedia.org/wiki/File:Hamburg,_Gew%C3%BCrzmuseum,_Paprika_edels%C3%BC%C3%9F_aus_Ungarn.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/1/1a/Hamburg%2C_Gew%C3%BCrzmuseum%2C_Paprika_edels%C3%BC%C3%9F_aus_Ungarn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY 4.0 ? https://creativecommons.org/licenses/by/4.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+POLENTA
+Archivo: imagenes/0e2ea140-73c2-4ad5-8e29-c6c330a7ed13.jpg
+Autor: Popo le Chien
+Producto: https://commons.wikimedia.org/wiki/File:Polenta_uncooked.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/1/1d/Polenta_uncooked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+FRUTIGRAN AVENA CHIA LINO
+Archivo: imagenes/5aef6dab-95a2-4540-b370-4b549ebe1daa.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790045825395
+Imagen: https://images.openfoodfacts.net/images/products/779/004/582/5395/front_es.38.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SURTIDO BAGLEY 400 G
+Archivo: imagenes/49100df9-e7c7-4b9c-8f01-6571228e41cd.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040147720
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/014/7720/9.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PASEO CON SEMILLA
+Archivo: imagenes/12418716-1257-4d17-a0f4-b893a68a09ec.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792180139375
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/218/013/9375/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAN BLANCO LACTAL 315g
+Archivo: imagenes/69a8f27f-496c-4be7-a3ca-59f75053d2b2.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793890258769
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8769/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+
+PEPAS TRICHOC
+Archivo: imagenes/8e66bce0-5df5-4985-90b6-cad6c5f5ea42.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791787000705
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/178/700/0705/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+finlandia queso crema
+Archivo: imagenes/7e629ae2-f26e-4896-bcba-0423635a4c58.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790742373205
+Imagen: https://images.openfoodfacts.net/images/products/779/074/237/3205/front_es.50.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA LA TRANQUERA 500G
+Archivo: imagenes/b8490d08-3a0a-4de8-b180-200e656f5933.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790480089734
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/048/008/9734/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CEPITA NARANJA
+Archivo: imagenes/24fefd9a-6e7f-46c3-8bcc-17b25b3d0c11.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895009815
+Imagen: https://images.openfoodfacts.net/images/products/779/089/500/9815/front_es.43.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MINI TORTA AGUILA
+Archivo: imagenes/5af52f85-35e6-424c-bd1a-46a7101cd6f5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040133587
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/3587/9.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ROCKLETS 20G
+Archivo: imagenes/d1f67905-6505-4522-b1d9-7c6423d5fab9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790580421007
+Imagen: https://images.openfoodfacts.net/images/products/779/058/042/1007/front_es.29.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+TE TARAGUI
+Archivo: imagenes/8c1e6d61-9db3-40b2-adef-7dc549d3f176.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790387013344
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/701/3344/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+VINAGRE MENOYO 500ML
+Archivo: imagenes/3e499ff2-b9a0-4055-a342-57e17100ee2c.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790130000034
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/013/000/0034/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PILAS DURACEL AAA
+Archivo: imagenes/d0a3f9bd-2ce7-4788-a16f-ef0185b66edb.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/5000394018457
+Imagen: https://images.openproductsfacts.org/images/products/500/039/401/8457/front_en.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
+
+MAGDALENA VALENTE
+Archivo: imagenes/c000866d-ba43-4455-8113-5f8fe404345f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793890259094
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/9094/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+HUEVOS MEDIA DOCENA
+Archivo: imagenes/533849c8-95b7-4c50-8ad7-4c10f345e879.jpg
+Autor: Gisela Francisco
+Producto: https://commons.wikimedia.org/wiki/File:Carton_of_eggs.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/b/b1/Carton_of_eggs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY 3.0 ? https://creativecommons.org/licenses/by/3.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+ESPONJA DE ACERO
+Archivo: imagenes/e451eeed-971f-4282-849d-5546e3a997e3.jpg
+Autor: Patrick Pelletier
+Producto: https://commons.wikimedia.org/wiki/File:S.O.S_Soap_Pad.JPG
+Imagen: https://upload.wikimedia.org/wikipedia/commons/c/c3/S.O.S_Soap_Pad.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+ALFAJOR TRI SHOT TRIPLE
+Archivo: imagenes/5881280d-599d-4188-883a-6f7299d02afb.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/75737375
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/573/7375/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SHAMPOO SEDAL 190 ML
+Archivo: imagenes/ed952d7f-b4db-4052-a47c-f14e4f0ba03f.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7791293046365
+Imagen: https://images.openbeautyfacts.org/images/products/779/129/304/6365/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PICADILLO DE CARNE
+Archivo: imagenes/3a14738d-680f-4e7f-9d4c-7aadc5d568c1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790360720115
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/036/072/0115/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+HILERET CLASICO X250 ML
+Archivo: imagenes/61261fae-2f2a-4ecf-b1ef-713918458390.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794940000819
+Imagen: https://images.openfoodfacts.net/images/products/779/494/000/0819/front_es.20.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+toallitas humedas huggies X48
+Archivo: imagenes/19e25301-6aa9-4c7c-a1ea-e7508a333ad9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794626011054
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/462/601/1054/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SOBRE SEDAL SHAMPO
+Archivo: imagenes/b7818ead-7b78-499f-a828-f4dd0ece6596.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/77942654
+Imagen: https://images.openbeautyfacts.org/images/products/000/007/794/2654/front_en.5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+DESODORANTE AXE 150 ML
+Archivo: imagenes/1bd7cf74-acbd-4e20-b314-c6df9643593e.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7791293043814
+Imagen: https://images.openbeautyfacts.org/images/products/779/129/304/3814/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+mogul gomitas
+Archivo: imagenes/e039100a-54b0-431a-9bfa-21bf33e102cb.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790580116965
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/011/6965/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+SAVORA
+Archivo: imagenes/bd7e28e2-a864-405e-b149-7a7fe024ebcc.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794000006492
+Imagen: https://images.openfoodfacts.net/images/products/779/400/000/6492/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SALSA LISTA KNORR POMAROLA
+Archivo: imagenes/7baa1579-6592-4eee-8fed-f15d8fedfe1d.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794000003750
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/400/000/3750/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+BAGGIO MIX FRUTAL 1L
+Archivo: imagenes/65296302-01a5-4350-907b-7de34223198f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790036000367
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/003/600/0367/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+9 DE ORO AGRIDULCE
+Archivo: imagenes/d05676e6-6aea-425c-a39f-058b9b950640.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792180139726
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/218/013/9726/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+TALLARIN MATARAZZO
+Archivo: imagenes/be905585-67d2-43dd-bd97-384ab77bd87a.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790070336316
+Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6316/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+patagonia amber lager
+Archivo: imagenes/40680b44-0fc8-4fae-bf1a-3253c1d2c66f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798001965
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/279/800/1965/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA MATE MAROLIO
+Archivo: imagenes/a8d67537-09ea-4e74-91ac-3f4326a2679d.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7797470000090
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/747/000/0090/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHOCOLATE HAMLET ALMENDRAS Y MANI 45G
+Archivo: imagenes/fe9d8237-f646-4ed1-b10c-4b9108d051e1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794612065719
+Imagen: https://images.openfoodfacts.net/images/products/779/461/206/5719/front_es.17.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAN LACTAL chico
+Archivo: imagenes/b7f930d9-f157-46d7-b8f9-02945b66738c.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793890258769
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/389/025/8769/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa. Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+JABON LUX
+Archivo: imagenes/ce683747-a7c3-4825-b94b-ab61ff80cb7d.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7791293050843
+Imagen: https://images.openbeautyfacts.org/images/products/779/129/305/0843/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHOCOLATADA TREGAR
+Archivo: imagenes/72e5b9e2-02e0-4747-aaba-9a39b00860f9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793913001990
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/391/300/1990/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PITUZAS JALEA FRANBUESA
+Archivo: imagenes/6002c7e0-85b9-46ec-b56e-16a913504713.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791324157527
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7527/7.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA MATE PLAYADITO
+Archivo: imagenes/839fd673-3d67-4e52-901a-1a9e9e89d5aa.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793704000911
+Imagen: https://images.openfoodfacts.net/images/products/779/370/400/0911/front_es.93.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CINDOR 200ML
+Archivo: imagenes/e41648c1-a9b3-40d5-9f27-6622138d7ba1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791337007260
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/133/700/7260/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CAFE TORRADO BONAFIDE
+Archivo: imagenes/2744f839-9c73-463b-b0ac-a22dd0399025.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792360094968
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/236/009/4968/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+REXONA ODORONO
+Archivo: imagenes/d7d55c56-ad49-47b3-9333-6b8642bacb8f.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/77987983
+Imagen: https://images.openbeautyfacts.org/images/products/000/007/798/7983/front_es.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+BAGGIO 1L NARANJA
+Archivo: imagenes/5d245dd9-2816-498c-8b40-7bf7656cbe23.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790036000329
+Imagen: https://images.openfoodfacts.net/images/products/779/003/600/0329/front_es.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LOMO DE ATUN GOMES DA COSTA X 170G
+Archivo: imagenes/1adf8e0b-35de-427c-8fa4-223074ee525f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7891167831179
+Imagen: https://images.openfoodfacts.net/images/products/789/116/783/1179/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+RASTA BLANCO
+Archivo: imagenes/d0d91b4e-1c73-4647-86dd-dba34680fe73.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798397440013
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/839/744/0013/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+FLAN VAINILLA RAVANA
+Archivo: imagenes/a41c445c-8d64-4965-849d-9b057b3f3275.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790971001931
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/097/100/1931/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+DOS CORAZONEZ
+Archivo: imagenes/fe606135-a8b9-4ced-9ab2-f6da416d8009.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77907509
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/790/7509/3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MANTECA LA PAULINA 100G
+Archivo: imagenes/627063ed-9da2-4dc0-ab21-06ac5b0e9906.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790398100071
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/039/810/0071/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+sprite zero
+Archivo: imagenes/88863d56-ee82-4700-98f8-7a31c509a695.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895064173
+Imagen: https://images.openfoodfacts.net/images/products/779/089/506/4173/front_es.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA MAÑANITA 500G
+Archivo: imagenes/41918cde-2247-414b-9bbc-5a6c86346e24.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790387015324
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/701/5324/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+BELDENT ROJO
+Archivo: imagenes/b5410963-a9b6-4efd-ac02-a1b7004a4ee4.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77969118
+Imagen: https://images.openfoodfacts.net/images/products/000/007/796/9118/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
 
 smack oblea
 Archivo: imagenes/7437d9d4-ed8b-4717-aa50-2d2b0bcc3bdd.jpg
 Autor: Colaboradores de Open Food Facts
 Producto: https://world.openfoodfacts.org/product/7798094220444
 Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/809/422/0444/4.400.jpg
-Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MOLTO RIGATTI
+Archivo: imagenes/71c3bbcc-f78b-411f-865a-9805b678c61f.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798138552333
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/813/855/2333/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CALDO DE VERDURA
+Archivo: imagenes/ac8be2ea-214a-40bd-927e-16612f5db56d.jpg
+Autor: Veganbaking.net from USA
+Producto: https://commons.wikimedia.org/wiki/File:Vegan_Vegetable_Stock_(8530528590).jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/6/63/Vegan_Vegetable_Stock_%288530528590%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 2.0 ? https://creativecommons.org/licenses/by-sa/2.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+PALITO HELADO CREMA AMERICANA
+Archivo: imagenes/ddab81bd-e50b-4b78-8b5e-24f448b874d1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790580112394
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/058/011/2394/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa. Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG. Además, se rotó 180 grados y se guardó nuevamente en JPEG.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+COFLER BLOCK
+Archivo: imagenes/f24dd0a5-2e74-42e2-88bf-7af0bcedbfa2.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77953124
+Imagen: https://images.openfoodfacts.net/images/products/000/007/795/3124/front_es.35.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Brahma 473ml
+Archivo: imagenes/b18ff8ae-00ed-4ffb-9dfa-0807994c1800.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798005888
+Imagen: https://images.openfoodfacts.net/images/products/779/279/800/5888/front_es.12.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+BELDENT VERDE
+Archivo: imagenes/abde42c2-8f26-466f-a2c3-dbdcd82bff88.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77969071
+Imagen: https://images.openfoodfacts.net/images/products/000/007/796/9071/front_es.25.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+HINDS PIEL SECA
+Archivo: imagenes/0ef7ebd3-f56a-4641-8c93-86cf862abd8b.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7794640171222
+Imagen: https://images.openbeautyfacts.org/images/products/779/464/017/1222/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+jabon en polvo ala
+Archivo: imagenes/6240119a-0d2c-4878-afb6-ea9237fc77e1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791290792098
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/2098/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+panchos
+Archivo: imagenes/705c8a19-f850-43b7-8478-37c1584dae75.jpg
+Autor: Evan Swigart from Chicago, USA
+Producto: https://commons.wikimedia.org/wiki/File:Hotdog_-_Evan_Swigart.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/f/fb/Hotdog_-_Evan_Swigart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY 2.0 ? https://creativecommons.org/licenses/by/2.0
+Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+GALLETITAS TODDI 126
+Archivo: imagenes/57037f2a-26a0-45b5-a621-2e3768a49ffb.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790380023463
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/002/3463/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAPAS FRITAS KRACHITOS 55G
+Archivo: imagenes/3fbfa52b-637d-408a-8ee5-100a8cadfb10.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794520868914
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/452/086/8914/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+JORGITO NEGRO 55G
+Archivo: imagenes/325f963d-73d9-4838-ad8f-4f3dd7368708.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77905741
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/790/5741/7.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MATE COCIDO TARAGUI
+Archivo: imagenes/2d37dce5-57b8-4edc-89ff-45db84910221.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790387000849
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/038/700/0849/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LUCCHETTI TIRABUZON
+Archivo: imagenes/32269045-d4a5-4157-a4e0-f2bd35fc97f5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790070336026
+Imagen: https://images.openfoodfacts.net/images/products/779/007/033/6026/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GALLETITAS SABORES DE LA VIDA
+Archivo: imagenes/f2d3fa8d-8c37-46be-92c3-1a73f3578c69.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798126073406
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/812/607/3406/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+HILERET
+Archivo: imagenes/a98958b0-3a6e-41f0-8a20-6518ca9070f0.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794940000826
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/494/000/0826/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+smirnoff ice red berries
+Archivo: imagenes/0a68b7d0-fef4-4d76-9ac2-9f829d3ee168.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791250003189
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/125/000/3189/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+sprite 600ml
+Archivo: imagenes/ba67a0d0-b930-4fd4-8109-e30201498074.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895650871
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/565/0871/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GALLETITAS AMOR
+Archivo: imagenes/4eef4b9d-1d8a-4006-aa09-0f56b7263245.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040429208
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/042/9208/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+FRUTIGRAN AVENA Y PASAS
+Archivo: imagenes/2164f592-e94e-4266-bede-6370b05a4afe.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790045001188
+Imagen: https://images.openfoodfacts.net/images/products/779/004/500/1188/front_es.67.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Salchichas VIENISIMA X 6 U
+Archivo: imagenes/c4ab5ac2-ee79-4c67-b205-5cba859e10f8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790670052401
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/067/005/2401/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+JABON DOVE
+Archivo: imagenes/c2769f16-ab37-4d80-ad13-d5f25fb2b5be.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7891150019560
+Imagen: https://images.openbeautyfacts.org/images/products/789/115/001/9560/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la derecha y guardada nuevamente en JPEG.
+
+MILANESA DE SOJA X 4 UNIDADES
+Archivo: imagenes/51923c22-b821-4be7-95d3-0bb8983cf823.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790174000564
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/017/400/0564/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+NUGATON BONAFIDE 27G
+Archivo: imagenes/04f12adc-3611-4497-a225-77cc65a46873.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792360072447
+Imagen: https://images.openfoodfacts.net/images/products/779/236/007/2447/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHOCOLATE HAMLET BICOLOR 42G
+Archivo: imagenes/ab46a549-3365-4d43-9507-be6f08525af9.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794612491013
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/461/249/1013/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Imagen rotada 90 grados a la izquierda y guardada nuevamente en JPEG.
+
+KETCHUP HELLMANNS
+Archivo: imagenes/4dd8589c-84a7-4903-9cb2-e8a17c38b026.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794000960275
+Imagen: https://images.openfoodfacts.net/images/products/779/400/096/0275/front_es.15.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MEREGADAS
+Archivo: imagenes/763eaf28-4064-426d-b75d-e206fd684a49.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040139657
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/9657/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CONDIMENTO DE CARNE
+Archivo: imagenes/ee6f6429-27c2-4921-abed-e403b85a8ff6.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790150480243
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/015/048/0243/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+smirnoff ice green apple
+Archivo: imagenes/1c5ad004-3d8f-458e-9484-dc454eafce7b.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791250003127
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/125/000/3127/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PEPITOS
+Archivo: imagenes/874a4b21-b42c-4c92-a382-4cac1aeb7578.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7622201735906
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/220/173/5906/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CEREALITAS CLASICAS
+Archivo: imagenes/643149a9-c071-4e56-a906-dfd0b26cb985.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7622300840259
+Imagen: https://images.openfoodfacts.net/images/products/762/230/084/0259/front_es.24.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ARVEJAS INCA
+Archivo: imagenes/306896cf-8cc9-43ed-9d08-aed2dcee0781.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790790120257
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/079/012/0257/7.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+speed
+Archivo: imagenes/cf50aef4-9837-4b87-a663-ab4782bf0992.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798119220015
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/811/922/0015/5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SEDAL 10ML
+Archivo: imagenes/49d5a8f0-f5f0-46c8-9d2c-114f15afc8d0.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/77942647
+Imagen: https://images.openbeautyfacts.org/images/products/000/007/794/2647/front_es.6.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+coca cola 600ml
+Archivo: imagenes/a56deed7-60bd-47b0-a2b7-601ee23a6962.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895650833
+Imagen: https://images.openfoodfacts.net/images/products/779/089/565/0833/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+HARINA 000 CAÑUELAS
+Archivo: imagenes/2e2bc2b1-d93b-4e23-824c-18caa8c4e314.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792180139320
+Imagen: https://images.openfoodfacts.net/images/products/779/218/013/9320/front_es.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MENTITAS 26
+Archivo: imagenes/d6e06cc6-453e-4f2c-a431-b8c78559f257.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798094340562
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/809/434/0562/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+rexona 150 ml anti bacterial
+Archivo: imagenes/a3a008b9-813f-4242-9e1f-1070d94bfce1.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7791293025537
+Imagen: https://images.openbeautyfacts.org/images/products/779/129/302/5537/front_es.5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GILLETTE AZUL 2 HOJAS
+Archivo: imagenes/a803e79c-498a-4807-a08c-ae296c880bea.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7702018467242
+Imagen: https://images.openbeautyfacts.org/images/products/770/201/846/7242/front_en.5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Pan de Pancho
+Archivo: imagenes/20a4e17e-5be3-4314-83c4-f421c51898ff.jpg
+Autor: Stacy Spensley
+Producto: https://commons.wikimedia.org/wiki/File:Homemade_whole_wheat_hot_dog_buns.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/0/06/Homemade_whole_wheat_hot_dog_buns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY 2.0 ? https://creativecommons.org/licenses/by/2.0
+Cambios: Foto ilustrativa de producto sin marca especificada; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+aquarius manzana 600ml
+Archivo: imagenes/13b5c9c6-5c91-4b9d-90f8-71658fed96f1.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895009211
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/500/9211/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CHOCOLATE HAMLET FRUTILLA 43G
+Archivo: imagenes/3281564b-058a-4aa1-a96a-1cde4a229508.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794612066419
+Imagen: https://images.openfoodfacts.net/images/products/779/461/206/6419/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+selton espirales X12
+Archivo: imagenes/732f5b95-6017-4cd1-b445-41bb2dee3295.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793253006822
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/325/300/6822/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CREMA PARA COCINAR
+Archivo: imagenes/35e78ff9-8097-42a6-968f-861e1d48867c.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790742141606
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/074/214/1606/4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+fanta 600ml
+Archivo: imagenes/b9d7a309-0114-4095-9992-ee522423ff6d.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895650888
+Imagen: https://images.openfoodfacts.net/images/products/779/089/565/0888/front_en.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+lavandina ayudin
+Archivo: imagenes/f5996ae4-ed3a-4117-854d-da808958ade5.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790132098459
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/013/209/8459/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+NESQUIK
+Archivo: imagenes/5b563ba5-893d-4fa6-9e3b-ec707f35cde6.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7613034450074
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/761/303/445/0074/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+Cambios: Foto ilustrativa.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+CHOCOLATADA TREGAR 200ML
+Archivo: imagenes/c3ac2261-96b2-4038-825f-0194400842fb.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793913002119
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/391/300/2119/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+YERBA NOBLEZA GAUCHA 500G
+Archivo: imagenes/cdaa471e-54f4-4ea4-8a73-d14562e6ff39.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790070507112
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/007/050/7112/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ACEITUNA CASTELL DESCAROZADA
+Archivo: imagenes/ab765a00-79e3-4250-9afc-5840e441501e.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791675908946
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/167/590/8946/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+MELLIZAS
+Archivo: imagenes/93b0a150-7188-427f-9ba2-c58067505c34.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040143548
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/014/3548/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+poett suavidad de algodon
+Archivo: imagenes/b9dbfab4-748f-4ca2-b82e-027afc8b3939.jpg
+Autor: Colaboradores de Open Products Facts
+Producto: https://world.openproductsfacts.org/product/7793253002176
+Imagen: https://images.openproductsfacts.org/images/products/779/325/300/2176/front_es.8.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+ALMA MORA MALBEC
+Archivo: imagenes/d0025aed-d044-48c9-81bc-27065a571c81.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791540092336
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/154/009/2336/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+FRUTIGRAN CHIP CHOCOLATE
+Archivo: imagenes/8ecc566c-430b-4c08-b95d-c717f878dfdf.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790045824893
+Imagen: https://images.openfoodfacts.net/images/products/779/004/582/4893/front_es.58.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+quilmes clasica
+Archivo: imagenes/27e44764-32f4-4a2a-9fab-e1fe5b80fa07.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792798007387
+Imagen: https://images.openfoodfacts.net/images/products/779/279/800/7387/front_en.5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAÑUELOS ELITE
+Archivo: imagenes/d7c6a011-1dd9-4be5-be89-31f6738ebc08.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7790250000358
+Imagen: https://images.openbeautyfacts.org/images/products/779/025/000/0358/front_en.5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+LA GOTITA
+Archivo: imagenes/27b4dda8-a94e-401f-a4d0-de1e29901145.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/77917188
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/007/791/7188/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PITUZAS MOUSE CHOCOLATE
+Archivo: imagenes/91ece007-6cca-419d-9284-356b05c629eb.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791324157084
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/132/415/7084/2.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SAL FINA 2 ESTRLLAS
+Archivo: imagenes/c11049b8-3058-4fa6-97ab-39e1c36bc1aa.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792900092706
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/290/009/2706/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+RASTA NEGRO
+Archivo: imagenes/452cb9f1-e735-40ce-b010-75c974e8fd8d.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7798397444202
+Imagen: https://images.openfoodfacts.net/images/products/779/839/744/4202/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GALLETITAS SALVADO HOGAREÑAS
+Archivo: imagenes/32d1cfd8-bfba-4a7b-b292-1bdd4737faaf.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040132955
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/004/013/2955/3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+desodorante rexona
+Archivo: imagenes/622977bc-bd51-423a-84e3-9b73349cbae7.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/7791293035826
+Imagen: https://images.openbeautyfacts.org/images/products/779/129/303/5826/front_pt.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAN HAMBURGUESA chico
+Archivo: imagenes/5fa371e7-e055-494d-afea-78f75623c38f.jpg
+Autor: TurnOnTheNight
+Producto: https://commons.wikimedia.org/wiki/File:Hamburger_buns_at_BJBF_2026_20260503154048.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/7/7c/Hamburger_buns_at_BJBF_2026_20260503154048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+CAFE INSTANTANEO ARLISTAN 50G
+Archivo: imagenes/d31f093b-8a08-4555-9027-32efc8154ac7.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790070933652
+Imagen: https://images.openfoodfacts.net/images/products/779/007/093/3652/front_en.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+schneider 473ml
+Archivo: imagenes/ebb2159f-569b-4fb2-a2c0-9e7942a5733d.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7793147118860
+Imagen: https://images.openfoodfacts.net/images/products/779/314/711/8860/front_es.16.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+suavizante de ropa vivere
+Archivo: imagenes/5c4f2893-814d-4090-ab5e-010696b9e48b.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791290793750
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/129/079/3750/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+SALSA LISTA PIZZA KNORR
+Archivo: imagenes/66050405-1cfa-48fd-9795-11e48b6a88b8.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7794000003699
+Imagen: https://images.openfoodfacts.net/images/products/779/400/000/3699/front_es.3.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+PAPAS MAROLIO
+Archivo: imagenes/edc68276-c557-4a06-ad4e-022422a91aaa.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7797470197080
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/747/019/7080/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+CAFE DE COLAR BONAFIDE X 250 GRAMOS
+Archivo: imagenes/6b24e6ad-146a-4531-b8e3-b4671ae8935e.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7792360002079
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/236/000/2079/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+jugo cepita 200ml
+Archivo: imagenes/49d32ac7-c8c3-48a3-8a09-12a3a032629e.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790895000720
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/089/500/0720/5.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+Salamín
+Archivo: imagenes/2c1059a5-f707-4ce8-b78e-2372dfaebab5.jpg
+Autor: Horacio Cambeiro
+Producto: https://commons.wikimedia.org/wiki/File:Salam%C3%ADn_estilo_tucumano.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/7/75/Salam%C3%ADn_estilo_tucumano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Licencia: CC BY-SA 4.0 ? https://creativecommons.org/licenses/by-sa/4.0
+Cambios: Foto ilustrativa; imagen redimensionada por Wikimedia Commons.
+Uso: fotograf?a ilustrativa; no representa necesariamente la presentaci?n exacta.
+
+garnier rubio claro
+Archivo: imagenes/71f9a035-34cd-427c-a220-e4158cc40e9b.jpg
+Autor: Colaboradores de Open Beauty Facts
+Producto: https://world.openbeautyfacts.org/product/3600541375758
+Imagen: https://images.openbeautyfacts.org/images/products/360/054/137/5758/front_es.4.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+OREO GALLETITAS
+Archivo: imagenes/f85cdecb-a703-4b5f-b8ed-b77e903de770.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7622300864934
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/762/230/086/4934/10.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+GRANIX SALVADO
+Archivo: imagenes/a35d21bb-548d-4f55-be57-5ee4e06b95b6.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790045826200
+Imagen: https://images.openfoodfacts.net/images/products/779/004/582/6200/front_es.33.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+COFLER RELLENAS CHOCO CREAM
+Archivo: imagenes/0aa73602-e172-4dde-ba56-27db5853fa06.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7790040143777
+Imagen: https://images.openfoodfacts.net/images/products/779/004/014/3777/front_es.21.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/
+
+TAPAS DE EMPANADA ORALI
+Archivo: imagenes/85c22fff-1096-494e-8427-c28760c24b33.jpg
+Autor: Colaboradores de Open Food Facts
+Producto: https://world.openfoodfacts.org/product/7791218000090
+Imagen: https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/779/121/800/0090/1.400.jpg
+Licencia: CC BY-SA 3.0 ? https://creativecommons.org/licenses/by-sa/3.0/

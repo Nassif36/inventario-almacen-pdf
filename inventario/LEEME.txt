@@ -1,11 +1,11 @@
 INVENTARIO VALIDADO DE EL HORNERO
 
-El inventario incluido contiene 411 productos y 10 categorías, sin precios ni
+El inventario incluido contiene 413 productos y 12 categorías, sin precios ni
 cantidades de stock. Conserva los productos que figuraban con stock cero.
-Hay 403 productos con foto y 8 con marcador. Se sincronizaron 183 fotografías
+Hay 410 productos con foto y 3 con marcador. Se sincronizaron 183 fotografías
 aportadas por el usuario por coincidencia exacta entre título y nombre de archivo,
-normalizando mayúsculas, acentos y separadores. Las 220 fotos anteriores conservan
-sus créditos; 34 de ellas se identifican como fotos ilustrativas.
+normalizando mayúsculas, acentos y separadores. 202 fotos conservan sus
+créditos; 31 de ellas se identifican como fotos ilustrativas.
 
 Archivos
 --------
@@ -68,9 +68,9 @@ pero no se les atribuyen autores ni licencias que no hayan sido proporcionados.
 La foto de caldo de gallina se incluye como copia reducida para catálogo, dentro
 del límite de 5 MB por imagen; se conserva el PNG original en imagenes/.
 
-Siguen pendientes: garnier rubio claro ceniza; pañales huggies protect plus X8 G;
-paño multiouso sed metal; 100g Queso; 100g Panceta; 100g Jamón; 1 hora pool;
-Mentitas. No se asignaron imágenes de otras variantes ni presentaciones.
+Siguen pendientes: paño multiouso sed metal; garnier rubio claro ceniza;
+CAÑONCITO DE MEMBRILLO. No se asignaron imágenes de otras variantes ni
+presentaciones.
 
 Imágenes y licencias
 --------------------
